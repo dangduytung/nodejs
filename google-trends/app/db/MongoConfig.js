@@ -1,6 +1,6 @@
 var MongoConfig = {
     MONGO_URL : "mongodb://localhost:27017/",
-    MONGO_DB : 'DbTest'
+    MONGO_DB : 'DTest'
 }
 
 module.exports = MongoConfig;

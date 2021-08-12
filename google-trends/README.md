@@ -45,8 +45,8 @@ module.exports = {
 
 ## Build
 ```js
-npm run-script compile   				# Like command `node script/compile.js` Output is `dist` directory<br/>
-npm run-script compile-ob				# Obfuscation file js into jsc by using `bytecode` package<br/>
+npm run-script compile   				# Like command `node script/compile.js` Output is `dist` directory
+npm run-script compile-ob				# Obfuscation file js into jsc by using `bytecode` package
 ```
 
 ## Run by Node
