@@ -42,71 +42,44 @@ class MongoDb {
      * ===== trends-daily =====
      */
     async trends_daily$findOne(param) {
-        return this.trends_daily.findOne(param, function (err, res) {
-            if (err) throw err;
-            log.info('findOne `trends_daily` result _id: ' + res._id);
-        });
+        return this.trends_daily.findOne(param);
     }
 
     async trends_daily$find(param) {
-        return this.trends_daily.find(param).toArray(function (err, res) {
-            if (err) throw err;
-            log.info('find `trends_daily` result length: ' + res.length);
-        });
+        return this.trends_daily.find(param).toArray();
     }
 
     trends_daily$insertOne(param) {
-        return this.trends_daily.insertOne(param, function (err, res) {
-            if (err) throw err;
-            log.info("insertOne `trends_daily` 1 document inserted");
-        });
+        return this.trends_daily.insertOne(param);
     }
 
     /**
      * ===== trends-daily-final =====
      */
     async trends_daily_final$findOne(param) {
-        return this.trends_daily_final.findOne(param, function (err, res) {
-            if (err) throw err;
-            log.info('findOne `trends_daily_final` result _id: ' + res._id);
-        });
+        return this.trends_daily_final.findOne(param);
     }
 
     async trends_daily_final$find(param, limit, sort) {
         if (limit == undefined || sort == undefined) {
-            return this.trends_daily_final.find(param).toArray(function (err, res) {
-                if (err) throw err;
-                log.info('find `trends_daily_final` result length: ' + res.length);
-            });
+            return this.trends_daily_final.find(param).toArray();
         }
-        return this.trends_daily_final.find(param).limit(limit).sort(sort).toArray(function (err, res) {
-            if (err) throw err;
-            log.info('find `trends_daily_final` result length: ' + res.length);
-        });
+        return this.trends_daily_final.find(param).limit(limit).sort(sort).toArray();
     }
 
     trends_daily_final$insertMany(param) {
-        return this.trends_daily_final.insertMany(param, function (err, res) {
-            if (err) throw err;
-            log.info("insertMany `trends_daily_final` " + res.insertedCount + " documents inserted");
-        });
+        return this.trends_daily_final.insertMany(param);
     }
 
     /**
      * ===== trends-daily-notify =====
      */
     async trends_daily_notify$findOne(param) {
-        return this.trends_daily_notify.findOne(param, function (err, res) {
-            if (err) throw err;
-            log.info('findOne `trends_daily_notify` result _id: ' + res._id);
-        });
+        return this.trends_daily_notify.findOne(param);
     }
 
     trends_daily_notify$insertOne(param) {
-        return this.trends_daily_notify.insertOne(param, function (err, res) {
-            if (err) throw err;
-            log.info("insertOne `trends_daily_notify` 1 document inserted");
-        });
+        return this.trends_daily_notify.insertOne(param);
     }
 }
 
