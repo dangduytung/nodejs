@@ -61,3 +61,11 @@ pm2 start ecosystem.config.js --env=production`
 
 ## Run on startup
 Reference file `script\task-scheduler-window10.md`
+
+
+## Log in Pm2
+`../.pm2/logs/[app-name]-out-[pm2-index].log`<br/>
+`../.pm2/logs/[app-name]-error-[pm2-index].log`
+
+## Monitor
+Go to `https://app.pm2.io`

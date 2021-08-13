@@ -3,7 +3,7 @@ var fs = require('fs');
 var path = require("path");
 
 var IGNORE_FOLDERS = ['node_modules', 'data', 'logs', 'script', 'test', '.vscode'];
-var IGNORE_FILES = ['README.md'];
+var IGNORE_FILES = ['README.md', '.gitignore', '.env'];
 
 fs.exists('./dist', exist => {
     if (exist) {
