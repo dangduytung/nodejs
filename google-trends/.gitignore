@@ -5,5 +5,3 @@ data
 
 package-lock.json
 .env
-helpers/logger.js
-helpers/winston.js_bak

@@ -77,7 +77,6 @@ function compileFile() {
 
     // Compile the js file in the child directory into bytecode
 
-    compileDir('./dist/helpers');
     compileDir('./dist/app/config');
     compileDir('./dist/app/db');
     compileDir('./dist/app/model');

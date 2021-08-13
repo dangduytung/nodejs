@@ -5,7 +5,7 @@ const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
 
-const log = require('../helpers/winston')(module);
+const log = require('winston-log-lite')(module);
 
 const TrendsDailyFindService = require("./service/TrendsDailyFindService");
 

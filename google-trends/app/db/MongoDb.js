@@ -2,7 +2,7 @@
 
 const MongoClient = require('mongodb').MongoClient;
 
-const log = require("../../helpers/winston")(module);
+const log = require("winston-log-lite")(module);
 const MongoConfig = require("./MongoConfig");
 
 class MongoDb {

@@ -1,5 +1,5 @@
 require('dotenv').config()
-const log = require('../../helpers/winston')(module);
+const log = require('winston-log-lite')(module);
 const Utils = require('../utils/Utils');
 const DateUtils = require("../utils/DateUtils");
 const TelegramSendMessage = require("../telegram/TelegramSendMessage");

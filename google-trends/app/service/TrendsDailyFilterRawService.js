@@ -1,4 +1,4 @@
-const log = require("../../helpers/winston")(module);
+const log = require("winston-log-lite")(module);
 const DateUtils = require("../utils/DateUtils");
 
 const MongoDb = require("../db/MongoDb");

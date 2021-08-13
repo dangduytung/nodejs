@@ -12,7 +12,7 @@ const TrendsDailyFilterRawService = require("./service/TrendsDailyFilterRawServi
 const TrendsDailyTelegramService = require("./service/TrendsDailyTelegramService");
 const TrendsDailyFindService = require("./service/TrendsDailyFindService");
 
-const log = require("../helpers/winston")(module);
+const log = require("winston-log-lite")(module);
 
 const DAY_OFFSET = -4;
 const FOLDER_DATA_TRENDS_DAILY = './data/trends-daily/';

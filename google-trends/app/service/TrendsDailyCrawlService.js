@@ -1,6 +1,6 @@
 const fs = require("fs");
 const puppeteer = require("puppeteer");
-const log = require("../../helpers/winston")(module);
+const log = require("winston-log-lite")(module);
 const DateUtils = require("../utils/DateUtils");
 
 const MongoDb = require("../db/MongoDb");
@@ -20,7 +20,6 @@ async function start(dateCrawl) {
         "https://trends.google.com/trends/trendingsearches/daily?geo=VN"
     );
 
-    // await page.addScriptTag({ path: '../../helpers/winston' });
     // await page.exposeFunction("crawlData", crawlData);
 
     /** Crawl */
