@@ -1,6 +1,6 @@
 /** Cron job for crawl automatically daily */
 const fs = require("fs");
-const CronJob = require("cron").CronJob;
+var cron = require('node-cron');
 
 const MongoDb = require("./db/MongoDb");
 
@@ -36,48 +36,39 @@ function validateDir(dir) {
     }
 }
 
+var jobCrawl = cron.schedule(Constants.CRON_TIME.CRAWL, async () => {
+    await crawl();
+}, {
+    scheduled: false,
+    timezone: Constants.TimeZone_Vietnamese
+});
 
-var jobCrawl = new CronJob(
-    Constants.CRON_TIME.CRAWL,
-    async function () {
-            await crawl();
-        },
-        null,
-        true,
-        Constants.TimeZone_Vietnamese
-);
+var jobFilter = cron.schedule(Constants.CRON_TIME.FILTER, async () => {
+    await filter();
+}, {
+    scheduled: false,
+    timezone: Constants.TimeZone_Vietnamese
+});
 
-var jobFilter = new CronJob(
-    Constants.CRON_TIME.FILTER,
-    async function () {
-            await filter();
-        },
-        null,
-        true,
-        Constants.TimeZone_Vietnamese
-);
+var jobNotify = cron.schedule(Constants.CRON_TIME.NOTIFY, async () => {
+    /** NOTIFY DATA YESTERDAY */
+    // await notifyTelegramDataYesterday();
 
-var jobNotify = new CronJob(
-    Constants.CRON_TIME.NOTIFY,
-    async function () {
-            /** NOTIFY DATA YESTERDAY */
-            // await notifyTelegramDataYesterday();
+    /** NOTIFY DATA TODAY */
+    await notifyTelegramDataToday();
+}, {
+    scheduled: false,
+    timezone: Constants.TimeZone_Vietnamese
+});
 
-            /** NOTIFY DATA TODAY */
-            await notifyTelegramDataToday();
-        },
-        null,
-        true,
-        Constants.TimeZone_Vietnamese
-);
 
 async function start() {
     log.info(`start(), start ${new Date()}`);
-    
+
     initialize();
-    
+
     await initDb();
-    
+
     log.info(`start(), start many jobs`);
 
     jobCrawl.start();
@@ -134,23 +125,21 @@ async function notifyTelegramDataYesterday() {
 
     log.info(`notifyTelegramDataYesterday ~ cronTime : ${cronTime}`);
 
-    var cronJob = new CronJob(
-        cronTime,
-        async function () {
-                try {
-                    await TrendsDailyTelegramService.notifyDataYesterday();
-                } catch (error) {
-                    log.error(`notifyTelegramDataYesterday ~ ${error}`);
-                } finally {
-                    cronJob.stop();
-                }
-            },
-            null,
-            true,
-            Constants.TimeZone_Vietnamese
-    );
+    // Notify article yesterday
+    var cronNotify = cron.schedule(cronTime, async () => {
+        try {
+            await TrendsDailyTelegramService.notifyDataYesterday();
+        } catch (error) {
+            log.error(`notifyTelegramDataYesterday ~ ${error}`);
+        } finally {
+            cronNotify.stop();
+        }
+    }, {
+        scheduled: false,
+        timezone: Constants.TimeZone_Vietnamese
+    });
 
-    cronJob.start();
+    cronNotify.start();
 }
 
 /** ========= FUNCTION NOTIFY TELEGRAM CRAWL DATA TODAY AND SAVE RAW DATA (NOT SAVE FINAL DATA) =========== */
@@ -193,7 +182,7 @@ async function notifyTelegramDataToday() {
             // Remove url has sent before
             dataToday.articles.splice(indexRnd, 1);
         }
-        
+
         if (dataToday.articles.length == 0) {
             log.warn(`notifyTelegramDataToday ~ Loop is over all items`);
             return;
@@ -202,37 +191,35 @@ async function notifyTelegramDataToday() {
         indexRnd = Utils.getRndInteger(0, dataToday.articles.length);
         article = dataToday.articles[indexRnd];
         tmp = urlNotifiedArr.indexOf(article.postUrl);
-        
+
         log.info(`notifyTelegramDataToday ~ try indexRnd : ${indexRnd}, tmp : ${tmp}, url : ${article.postUrl}`);
     } while (tmp > -1)
 
     // Remove object of array
     dataToday.articles.splice(indexRnd, 1);
-    
+
     log.info(`notifyTelegramDataToday ~ wait to notify url : ${article.postUrl}, has sent ${urlNotifiedArr.length} articles today`);
 
-    var cronJob = new CronJob(
-        cronTime,
-        async function () {
-                try {
-                    // Notify
-                    await TrendsDailyTelegramService.notifyData(article);
+    // Notify article in random time in current hour
+    var cronNotifyRandom = cron.schedule(cronTime, async () => {
+        try {
+            // Notify
+            await TrendsDailyTelegramService.notifyData(article);
 
-                    // Save url has notified
-                    urlNotifiedArr.push(article.postUrl);
+            // Save url has notified
+            urlNotifiedArr.push(article.postUrl);
 
-                } catch (error) {
-                    log.error(`notifyTelegramDataToday ~ ${error}`);
-                } finally {
-                    cronJob.stop();
-                }
-            },
-            null,
-            true,
-            Constants.TimeZone_Vietnamese
-    );
+        } catch (error) {
+            log.error(`notifyTelegramDataToday ~ ${error}`);
+        } finally {
+            cronNotifyRandom.stop();
+        }
+    }, {
+        scheduled: false,
+        timezone: Constants.TimeZone_Vietnamese
+    });
 
-    cronJob.start();
+    cronNotifyRandom.start();
 }
 
 module.exports.DAY_OFFSET = DAY_OFFSET;
