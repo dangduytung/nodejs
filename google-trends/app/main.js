@@ -1,4 +1,5 @@
-/** Cron job for crawl automatically daily */
+require('dotenv').config()
+
 const fs = require("fs");
 var cron = require('node-cron');
 
