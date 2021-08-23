@@ -1,0 +1,185 @@
+Đặng An Triết	90	cực tốt
+Đặng Bách Triết	90	cực tốt
+Đặng Cấn Triết	90	cực tốt
+Đặng Châu Triết	90	cực tốt
+Đặng Chí Triết	90	cực tốt
+Đặng Danh Triết	90	cực tốt
+Đặng Duệ Triết	90	cực tốt
+Đặng Dương Triết	90	cực tốt
+Đặng Đạo Triết	90	cực tốt
+Đặng Đăng Triết	90	cực tốt
+Đặng Đình Triết	90	cực tốt
+Đặng Đoàn Triết	90	cực tốt
+Đặng Giang Triết	90	cực tốt
+Đặng Hảo Triết	90	cực tốt
+Đặng Hậu Triết	90	cực tốt
+Đặng Hoan Triết	90	cực tốt
+Đặng Huy Triết	90	cực tốt
+Đặng Hưng Triết	90	cực tốt
+Đặng Khanh Triết	90	cực tốt
+Đặng Khánh Triết	90	cực tốt
+Đặng Khải Triết	90	cực tốt
+Đặng Khôi Triết	90	cực tốt
+Đặng Khương Triết	90	cực tốt
+Đặng Kiện Triết	90	cực tốt
+Đặng Lộc Triết	90	cực tốt
+Đặng Luận Triết	90	cực tốt
+Đặng Nam Triết	90	cực tốt
+Đặng Ngạn Triết	90	cực tốt
+Đặng Nguyễn Triết	90	cực tốt
+Đặng Quang Triết	90	cực tốt
+Đặng Quyền Triết	90	cực tốt
+Đặng Sáng Triết	90	cực tốt
+Đặng Tín Triết	90	cực tốt
+Đặng Toàn Triết	90	cực tốt
+Đặng Trọng Triết	90	cực tốt
+Đặng Trụ Triết	90	cực tốt
+Đặng Bửu Triết	75	tốt
+Đặng Hoà Triết	75	tốt
+Đặng Phước Triết	75	tốt
+Đặng Sỹ Triết	75	tốt
+Đặng Vỹ Triết	75	tốt
+Đặng Cường Triết	72,5	tốt
+Đặng Đắc Triết	72,5	tốt
+Đặng Điệp Triết	72,5	tốt
+Đặng Lê Triết	72,5	tốt
+Đặng Thạc Triết	72,5	tốt
+Đặng Thịnh Triết	72,5	tốt
+Đặng Tuệ Triết	72,5	tốt
+Đặng Anh Triết	70	tốt
+Đặng Ân Triết	70	tốt
+Đặng Cao Triết	70	tốt
+Đặng Cần Triết	70	tốt
+Đặng Chấn Triết	70	tốt
+Đặng Định Triết	70	tốt
+Đặng Đôn Triết	70	tốt
+Đặng Hải Triết	70	tốt
+Đặng Hiền Triết	70	tốt
+Đặng Huỳnh Triết	70	tốt
+Đặng Khang Triết	70	tốt
+Đặng Kiệt Triết	70	tốt
+Đặng Lĩnh Triết	70	tốt
+Đặng Lâm Triết	70	tốt
+Đặng Mạnh Triết	70	tốt
+Đặng Minh Triết	70	tốt
+Đặng Quý Triết	70	tốt
+Đặng Quốc Triết	70	tốt
+Đặng Thiện Triết	70	tốt
+Đặng Tiến Triết	70	tốt
+Đặng Tính Triết	70	tốt
+Đặng Toản Triết	70	tốt
+Đặng Trí Triết	70	tốt
+Đặng Uy Triết	70	tốt
+Đặng Võ Triết	70	tốt
+Đặng Việt Triết	70	tốt
+Đặng Vinh Triết	70	tốt
+Đặng Xuân Triết	70	tốt
+Đặng Nhân Triết	67,5	tốt
+Đặng Phương Triết	67,5	tốt
+Đặng Thụy Triết	67,5	tốt
+Đặng Cẩn Triết	65	tốt
+Đặng Công Triết	65	tốt
+Đặng Đại Triết	65	tốt
+Đặng Hoàn Triết	65	tốt
+Đặng Nghĩa Triết	65	tốt
+Đặng Phi Triết	65	tốt
+Đặng Quảng Triết	65	tốt
+Đặng Sam Triết	65	tốt
+Đặng Sơn Triết	65	tốt
+Đặng Thái Triết	65	tốt
+Đặng Thiên Triết	65	tốt
+Đặng Ánh Triết	57,5	trung bình
+Đặng Chiến Triết	57,5	trung bình
+Đặng Doanh Triết	57,5	trung bình
+Đặng Hiển Triết	57,5	trung bình
+Đặng Hoàng Triết	57,5	trung bình
+Đặng Hoạt Triết	57,5	trung bình
+Đặng Huân Triết	57,5	trung bình
+Đặng Luật Triết	57,5	trung bình
+Đặng Mỹ Triết	57,5	trung bình
+Đặng Phú Triết	57,5	trung bình
+Đặng Phúc Triết	57,5	trung bình
+Đặng Quỳnh Triết	57,5	trung bình
+Đặng Thắng Triết	57,5	trung bình
+Đặng Thuận Triết	57,5	trung bình
+Đặng Thuyết Triết	57,5	trung bình
+Đặng Thường Triết	57,5	trung bình
+Đặng Trịnh Triết	57,5	trung bình
+Đặng Tuấn Triết	57,5	trung bình
+Đặng Tưởng Triết	57,5	trung bình
+Đặng Đức Triết	52,5	trung bình
+Đặng Hùng Triết	52,5	trung bình
+Đặng Bảo Triết	47,5	trung bình
+Đặng Dũng Triết	47,5	trung bình
+Đặng Diệu Triết	47,5	trung bình
+Đặng Du Triết	47,5	trung bình
+Đặng Duy Triết	47,5	trung bình
+Đặng Đạt Triết	47,5	trung bình
+Đặng Hà Triết	47,5	trung bình
+Đặng Hoài Triết	47,5	trung bình
+Đặng Hưởng Triết	47,5	trung bình
+Đặng Kiên Triết	47,5	trung bình
+Đặng Lý Triết	47,5	trung bình
+Đặng Liêm Triết	47,5	trung bình
+Đặng Lợi Triết	47,5	trung bình
+Đặng Lương Triết	47,5	trung bình
+Đặng Ngôn Triết	47,5	trung bình
+Đặng Thọ Triết	47,5	trung bình
+Đặng Thanh Triết	47,5	trung bình
+Đặng Thành Triết	47,5	trung bình
+Đặng Trình Triết	47,5	trung bình
+Đặng Trương Triết	47,5	trung bình
+Đặng Tú Triết	47,5	trung bình
+Đặng Văn Triết	47,5	trung bình
+Đặng Bá Triết	45	trung bình
+Đặng Bạch Triết	45	trung bình
+Đặng Bắc Triết	45	trung bình
+Đặng Bằng Triết	45	trung bình
+Đặng Bình Triết	45	trung bình
+Đặng Ca Triết	45	trung bình
+Đặng Chính Triết	45	trung bình
+Đặng Dân Triết	45	trung bình
+Đặng Di Triết	45	trung bình
+Đặng Điền Triết	45	trung bình
+Đặng Đông Triết	45	trung bình
+Đặng Gia Triết	45	trung bình
+Đặng Giáp Triết	45	trung bình
+Đặng Hòa Triết	45	trung bình
+Đặng Hiệp Triết	45	trung bình
+Đặng Hồng Triết	45	trung bình
+Đặng Huấn Triết	45	trung bình
+Đặng Kỳ Triết	45	trung bình
+Đặng Lễ Triết	45	trung bình
+Đặng Lập Triết	45	trung bình
+Đặng Long Triết	45	trung bình
+Đặng Lư Triết	45	trung bình
+Đặng Ngọc Triết	45	trung bình
+Đặng Nghiệp Triết	45	trung bình
+Đặng Ninh Triết	45	trung bình
+Đặng Sinh Triết	45	trung bình
+Đặng Thạch Triết	45	trung bình
+Đặng Thông Triết	45	trung bình
+Đặng Triệu Triết	45	trung bình
+Đặng Trường Triết	45	trung bình
+Đặng Vũ Triết	45	trung bình
+Đặng Vĩnh Triết	45	trung bình
+Đặng Cận Triết	42,5	trung bình
+Đặng Chỉ Triết	42,5	trung bình
+Đặng Cương Triết	42,5	trung bình
+Đặng Đan Triết	42,5	trung bình
+Đặng Hữu Triết	42,5	trung bình
+Đặng Hào Triết	42,5	trung bình
+Đặng Kiến Triết	42,5	trung bình
+Đặng Kim Triết	42,5	trung bình
+Đặng Nguyên Triết	42,5	trung bình
+Đặng Nhật Triết	42,5	trung bình
+Đặng Phong Triết	42,5	trung bình
+Đặng Sang Triết	42,5	trung bình
+Đặng Thế Triết	42,5	trung bình
+Đặng Thư Triết	42,5	trung bình
+Đặng Trung Triết	42,5	trung bình
+Đặng Tùng Triết	42,5	trung bình
+Đặng Tường Triết	42,5	trung bình
+Đặng Viết Triết	42,5	trung bình
+Đặng Vương Triết	42,5	trung bình
+Đặng Vượng Triết	42,5	trung bình

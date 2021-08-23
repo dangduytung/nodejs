@@ -1,0 +1,22 @@
+{
+  "name": "name-suggestion",
+  "version": "0.0.1",
+  "description": "Suggest name for baby",
+  "main": "app/index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "sync-request": "^6.1.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5",
+    "winston-log-lite": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/index.js"
+  },
+  "author": "dd.tung",
+  "license": "ISC"
+}
