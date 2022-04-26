@@ -1,0 +1,14 @@
+[
+	{
+		"bank_name": "VIB",
+		"short_name": "VIB",
+		"6_m": 8.5,
+		"12_m": 10.4
+	},
+	{
+		"bank_name": "MSB",
+		"short_name": "MSB",
+		"6_m": 6.59,
+		"12_m": 8
+	}
+]
