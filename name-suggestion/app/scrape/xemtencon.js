@@ -12,6 +12,8 @@ const SortUtils = require("../utils/SortUtils");
 
 /*****************************************************/
 
+const TIME_SlEEP_MILISECONDS = 2000;
+
 // Validate folder ./data/xemtencon
 var FOLDER_OUT = config.DATA_URL + config.FOLDER_XEMTENCON;
 FileUtils.validateDir(FOLDER_OUT);
@@ -90,7 +92,7 @@ async function crawlAsync(names) {
   // Crawl each name
   for (let i = 0; i < names.length; i++) {
     promises.push(crawlOneAsync(arr, names[i], i));
-    await TimeUtils.sleep(300);
+    await TimeUtils.sleep(TIME_SlEEP_MILISECONDS);
   }
 
   // Wait crawl all finished
