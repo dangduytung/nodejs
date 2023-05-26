@@ -21,7 +21,7 @@
     "mongodb": "^4.1.0",
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.11",
-    "puppeteer": "^10.2.0",
+    "puppeteer": "^13.1.2",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0",
     "winston-log-lite": "^0.0.2"
