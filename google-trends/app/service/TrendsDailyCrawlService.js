@@ -9,7 +9,7 @@ async function start(dateCrawl) {
     log.info(`Start crawl google trends daily dateCrawl : ${dateCrawl}`);
 
     const browser = await puppeteer.launch({
-        headless: true,
+        headless: 'new',
         args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
     const page = await browser.newPage();
