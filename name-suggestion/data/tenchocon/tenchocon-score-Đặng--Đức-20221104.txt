@@ -1,0 +1,185 @@
+Đặng Cường Đức	72,5	tốt
+Đặng Đắc Đức	72,5	tốt
+Đặng Điệp Đức	72,5	tốt
+Đặng Lê Đức	72,5	tốt
+Đặng Thạc Đức	72,5	tốt
+Đặng Thịnh Đức	72,5	tốt
+Đặng Tuệ Đức	72,5	tốt
+Đặng Thụy Đức	67,5	tốt
+Đặng Ánh Đức	60	tốt
+Đặng Bửu Đức	60	tốt
+Đặng Chiến Đức	60	tốt
+Đặng Doanh Đức	60	tốt
+Đặng Hiển Đức	60	tốt
+Đặng Hoà Đức	60	tốt
+Đặng Hoàng Đức	60	tốt
+Đặng Hoạt Đức	60	tốt
+Đặng Huân Đức	60	tốt
+Đặng Luật Đức	60	tốt
+Đặng Mỹ Đức	60	tốt
+Đặng Phú Đức	60	tốt
+Đặng Phúc Đức	60	tốt
+Đặng Phước Đức	60	tốt
+Đặng Quỳnh Đức	60	tốt
+Đặng Sỹ Đức	60	tốt
+Đặng Thắng Đức	60	tốt
+Đặng Thuận Đức	60	tốt
+Đặng Thuyết Đức	60	tốt
+Đặng Thường Đức	60	tốt
+Đặng Trịnh Đức	60	tốt
+Đặng Tuấn Đức	60	tốt
+Đặng Tưởng Đức	60	tốt
+Đặng Vỹ Đức	60	tốt
+Đặng Bảo Đức	57,5	trung bình
+Đặng Cẩn Đức	57,5	trung bình
+Đặng Công Đức	57,5	trung bình
+Đặng Dũng Đức	57,5	trung bình
+Đặng Diệu Đức	57,5	trung bình
+Đặng Du Đức	57,5	trung bình
+Đặng Duy Đức	57,5	trung bình
+Đặng Đại Đức	57,5	trung bình
+Đặng Đạt Đức	57,5	trung bình
+Đặng Hà Đức	57,5	trung bình
+Đặng Hoài Đức	57,5	trung bình
+Đặng Hoàn Đức	57,5	trung bình
+Đặng Hưởng Đức	57,5	trung bình
+Đặng Kiên Đức	57,5	trung bình
+Đặng Lý Đức	57,5	trung bình
+Đặng Liêm Đức	57,5	trung bình
+Đặng Lợi Đức	57,5	trung bình
+Đặng Lương Đức	57,5	trung bình
+Đặng Nghĩa Đức	57,5	trung bình
+Đặng Ngôn Đức	57,5	trung bình
+Đặng Phi Đức	57,5	trung bình
+Đặng Quảng Đức	57,5	trung bình
+Đặng Sam Đức	57,5	trung bình
+Đặng Sơn Đức	57,5	trung bình
+Đặng Thọ Đức	57,5	trung bình
+Đặng Thanh Đức	57,5	trung bình
+Đặng Thái Đức	57,5	trung bình
+Đặng Thành Đức	57,5	trung bình
+Đặng Thiên Đức	57,5	trung bình
+Đặng Trình Đức	57,5	trung bình
+Đặng Trương Đức	57,5	trung bình
+Đặng Tú Đức	57,5	trung bình
+Đặng Văn Đức	57,5	trung bình
+Đặng An Đức	55	trung bình
+Đặng Bách Đức	55	trung bình
+Đặng Cấn Đức	55	trung bình
+Đặng Châu Đức	55	trung bình
+Đặng Chí Đức	55	trung bình
+Đặng Danh Đức	55	trung bình
+Đặng Duệ Đức	55	trung bình
+Đặng Dương Đức	55	trung bình
+Đặng Đạo Đức	55	trung bình
+Đặng Đăng Đức	55	trung bình
+Đặng Đình Đức	55	trung bình
+Đặng Đoàn Đức	55	trung bình
+Đặng Giang Đức	55	trung bình
+Đặng Hảo Đức	55	trung bình
+Đặng Hậu Đức	55	trung bình
+Đặng Hoan Đức	55	trung bình
+Đặng Huy Đức	55	trung bình
+Đặng Hưng Đức	55	trung bình
+Đặng Khanh Đức	55	trung bình
+Đặng Khánh Đức	55	trung bình
+Đặng Khải Đức	55	trung bình
+Đặng Khôi Đức	55	trung bình
+Đặng Khương Đức	55	trung bình
+Đặng Kiện Đức	55	trung bình
+Đặng Lộc Đức	55	trung bình
+Đặng Luận Đức	55	trung bình
+Đặng Nam Đức	55	trung bình
+Đặng Ngạn Đức	55	trung bình
+Đặng Nguyễn Đức	55	trung bình
+Đặng Quang Đức	55	trung bình
+Đặng Quyền Đức	55	trung bình
+Đặng Sáng Đức	55	trung bình
+Đặng Tín Đức	55	trung bình
+Đặng Toàn Đức	55	trung bình
+Đặng Trọng Đức	55	trung bình
+Đặng Trụ Đức	55	trung bình
+Đặng Hùng Đức	50	trung bình
+Đặng Ân Đức	47,5	trung bình
+Đặng Chấn Đức	47,5	trung bình
+Đặng Hải Đức	47,5	trung bình
+Đặng Toản Đức	47,5	trung bình
+Đặng Triết Đức	47,5	trung bình
+Đặng Việt Đức	47,5	trung bình
+Đặng Vinh Đức	47,5	trung bình
+Đặng Anh Đức	42,5	trung bình
+Đặng Cao Đức	42,5	trung bình
+Đặng Cần Đức	42,5	trung bình
+Đặng Cận Đức	42,5	trung bình
+Đặng Chỉ Đức	42,5	trung bình
+Đặng Cương Đức	42,5	trung bình
+Đặng Đan Đức	42,5	trung bình
+Đặng Định Đức	42,5	trung bình
+Đặng Đôn Đức	42,5	trung bình
+Đặng Hữu Đức	42,5	trung bình
+Đặng Hào Đức	42,5	trung bình
+Đặng Hiền Đức	42,5	trung bình
+Đặng Huỳnh Đức	42,5	trung bình
+Đặng Khang Đức	42,5	trung bình
+Đặng Kiến Đức	42,5	trung bình
+Đặng Kiệt Đức	42,5	trung bình
+Đặng Kim Đức	42,5	trung bình
+Đặng Lĩnh Đức	42,5	trung bình
+Đặng Lâm Đức	42,5	trung bình
+Đặng Mạnh Đức	42,5	trung bình
+Đặng Minh Đức	42,5	trung bình
+Đặng Nguyên Đức	42,5	trung bình
+Đặng Nhật Đức	42,5	trung bình
+Đặng Phong Đức	42,5	trung bình
+Đặng Quý Đức	42,5	trung bình
+Đặng Quốc Đức	42,5	trung bình
+Đặng Sang Đức	42,5	trung bình
+Đặng Thế Đức	42,5	trung bình
+Đặng Thiện Đức	42,5	trung bình
+Đặng Thư Đức	42,5	trung bình
+Đặng Tiến Đức	42,5	trung bình
+Đặng Tính Đức	42,5	trung bình
+Đặng Trí Đức	42,5	trung bình
+Đặng Trung Đức	42,5	trung bình
+Đặng Tùng Đức	42,5	trung bình
+Đặng Tường Đức	42,5	trung bình
+Đặng Uy Đức	42,5	trung bình
+Đặng Võ Đức	42,5	trung bình
+Đặng Viết Đức	42,5	trung bình
+Đặng Vương Đức	42,5	trung bình
+Đặng Vượng Đức	42,5	trung bình
+Đặng Xuân Đức	42,5	trung bình
+Đặng Nhân Đức	37,5	tạm được
+Đặng Phương Đức	37,5	tạm được
+Đặng Bá Đức	30	tạm được
+Đặng Bạch Đức	30	tạm được
+Đặng Bắc Đức	30	tạm được
+Đặng Bằng Đức	30	tạm được
+Đặng Bình Đức	30	tạm được
+Đặng Ca Đức	30	tạm được
+Đặng Chính Đức	30	tạm được
+Đặng Dân Đức	30	tạm được
+Đặng Di Đức	30	tạm được
+Đặng Điền Đức	30	tạm được
+Đặng Đông Đức	30	tạm được
+Đặng Gia Đức	30	tạm được
+Đặng Giáp Đức	30	tạm được
+Đặng Hòa Đức	30	tạm được
+Đặng Hiệp Đức	30	tạm được
+Đặng Hồng Đức	30	tạm được
+Đặng Huấn Đức	30	tạm được
+Đặng Kỳ Đức	30	tạm được
+Đặng Lễ Đức	30	tạm được
+Đặng Lập Đức	30	tạm được
+Đặng Long Đức	30	tạm được
+Đặng Lư Đức	30	tạm được
+Đặng Ngọc Đức	30	tạm được
+Đặng Nghiệp Đức	30	tạm được
+Đặng Ninh Đức	30	tạm được
+Đặng Sinh Đức	30	tạm được
+Đặng Thạch Đức	30	tạm được
+Đặng Thông Đức	30	tạm được
+Đặng Triệu Đức	30	tạm được
+Đặng Trường Đức	30	tạm được
+Đặng Vũ Đức	30	tạm được
+Đặng Vĩnh Đức	30	tạm được

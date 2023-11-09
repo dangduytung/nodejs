@@ -1,0 +1,185 @@
+Đặng Đức Nguyên	82,5	cực tốt
+Đặng Hùng Nguyên	82,5	cực tốt
+Đặng Nhân Nguyên	82,5	cực tốt
+Đặng Phương Nguyên	82,5	cực tốt
+Đặng Anh Nguyên	80	cực tốt
+Đặng Ánh Nguyên	80	cực tốt
+Đặng Cao Nguyên	80	cực tốt
+Đặng Cần Nguyên	80	cực tốt
+Đặng Chiến Nguyên	80	cực tốt
+Đặng Doanh Nguyên	80	cực tốt
+Đặng Định Nguyên	80	cực tốt
+Đặng Đôn Nguyên	80	cực tốt
+Đặng Hiền Nguyên	80	cực tốt
+Đặng Hiển Nguyên	80	cực tốt
+Đặng Hoàng Nguyên	80	cực tốt
+Đặng Hoạt Nguyên	80	cực tốt
+Đặng Huỳnh Nguyên	80	cực tốt
+Đặng Huân Nguyên	80	cực tốt
+Đặng Khang Nguyên	80	cực tốt
+Đặng Kiệt Nguyên	80	cực tốt
+Đặng Lĩnh Nguyên	80	cực tốt
+Đặng Lâm Nguyên	80	cực tốt
+Đặng Luật Nguyên	80	cực tốt
+Đặng Mỹ Nguyên	80	cực tốt
+Đặng Mạnh Nguyên	80	cực tốt
+Đặng Minh Nguyên	80	cực tốt
+Đặng Phú Nguyên	80	cực tốt
+Đặng Phúc Nguyên	80	cực tốt
+Đặng Quý Nguyên	80	cực tốt
+Đặng Quỳnh Nguyên	80	cực tốt
+Đặng Quốc Nguyên	80	cực tốt
+Đặng Thắng Nguyên	80	cực tốt
+Đặng Thiện Nguyên	80	cực tốt
+Đặng Thuận Nguyên	80	cực tốt
+Đặng Thuyết Nguyên	80	cực tốt
+Đặng Thường Nguyên	80	cực tốt
+Đặng Tiến Nguyên	80	cực tốt
+Đặng Tính Nguyên	80	cực tốt
+Đặng Trí Nguyên	80	cực tốt
+Đặng Trịnh Nguyên	80	cực tốt
+Đặng Tuấn Nguyên	80	cực tốt
+Đặng Tưởng Nguyên	80	cực tốt
+Đặng Uy Nguyên	80	cực tốt
+Đặng Võ Nguyên	80	cực tốt
+Đặng Xuân Nguyên	80	cực tốt
+Đặng Ân Nguyên	75	tốt
+Đặng Chấn Nguyên	75	tốt
+Đặng Cường Nguyên	75	tốt
+Đặng Đắc Nguyên	75	tốt
+Đặng Điệp Nguyên	75	tốt
+Đặng Hải Nguyên	75	tốt
+Đặng Lê Nguyên	75	tốt
+Đặng Thạc Nguyên	75	tốt
+Đặng Thịnh Nguyên	75	tốt
+Đặng Toản Nguyên	75	tốt
+Đặng Triết Nguyên	75	tốt
+Đặng Tuệ Nguyên	75	tốt
+Đặng Việt Nguyên	75	tốt
+Đặng Vinh Nguyên	75	tốt
+Đặng Bửu Nguyên	72,5	tốt
+Đặng Hoà Nguyên	72,5	tốt
+Đặng Phước Nguyên	72,5	tốt
+Đặng Sỹ Nguyên	72,5	tốt
+Đặng Vỹ Nguyên	72,5	tốt
+Đặng Bảo Nguyên	70	tốt
+Đặng Dũng Nguyên	70	tốt
+Đặng Diệu Nguyên	70	tốt
+Đặng Du Nguyên	70	tốt
+Đặng Duy Nguyên	70	tốt
+Đặng Đạt Nguyên	70	tốt
+Đặng Hà Nguyên	70	tốt
+Đặng Hoài Nguyên	70	tốt
+Đặng Hưởng Nguyên	70	tốt
+Đặng Kiên Nguyên	70	tốt
+Đặng Lý Nguyên	70	tốt
+Đặng Liêm Nguyên	70	tốt
+Đặng Lợi Nguyên	70	tốt
+Đặng Lương Nguyên	70	tốt
+Đặng Ngôn Nguyên	70	tốt
+Đặng Thọ Nguyên	70	tốt
+Đặng Thanh Nguyên	70	tốt
+Đặng Thành Nguyên	70	tốt
+Đặng Trình Nguyên	70	tốt
+Đặng Trương Nguyên	70	tốt
+Đặng Tú Nguyên	70	tốt
+Đặng Văn Nguyên	70	tốt
+Đặng An Nguyên	67,5	tốt
+Đặng Bách Nguyên	67,5	tốt
+Đặng Cấn Nguyên	67,5	tốt
+Đặng Châu Nguyên	67,5	tốt
+Đặng Chí Nguyên	67,5	tốt
+Đặng Danh Nguyên	67,5	tốt
+Đặng Duệ Nguyên	67,5	tốt
+Đặng Dương Nguyên	67,5	tốt
+Đặng Đạo Nguyên	67,5	tốt
+Đặng Đăng Nguyên	67,5	tốt
+Đặng Đình Nguyên	67,5	tốt
+Đặng Đoàn Nguyên	67,5	tốt
+Đặng Giang Nguyên	67,5	tốt
+Đặng Hảo Nguyên	67,5	tốt
+Đặng Hậu Nguyên	67,5	tốt
+Đặng Hoan Nguyên	67,5	tốt
+Đặng Huy Nguyên	67,5	tốt
+Đặng Hưng Nguyên	67,5	tốt
+Đặng Khanh Nguyên	67,5	tốt
+Đặng Khánh Nguyên	67,5	tốt
+Đặng Khải Nguyên	67,5	tốt
+Đặng Khôi Nguyên	67,5	tốt
+Đặng Khương Nguyên	67,5	tốt
+Đặng Kiện Nguyên	67,5	tốt
+Đặng Lộc Nguyên	67,5	tốt
+Đặng Luận Nguyên	67,5	tốt
+Đặng Nam Nguyên	67,5	tốt
+Đặng Ngạn Nguyên	67,5	tốt
+Đặng Nguyễn Nguyên	67,5	tốt
+Đặng Quang Nguyên	67,5	tốt
+Đặng Quyền Nguyên	67,5	tốt
+Đặng Sáng Nguyên	67,5	tốt
+Đặng Tín Nguyên	67,5	tốt
+Đặng Toàn Nguyên	67,5	tốt
+Đặng Trọng Nguyên	67,5	tốt
+Đặng Trụ Nguyên	67,5	tốt
+Đặng Cẩn Nguyên	65	tốt
+Đặng Công Nguyên	65	tốt
+Đặng Đại Nguyên	65	tốt
+Đặng Hoàn Nguyên	65	tốt
+Đặng Nghĩa Nguyên	65	tốt
+Đặng Phi Nguyên	65	tốt
+Đặng Quảng Nguyên	65	tốt
+Đặng Sam Nguyên	65	tốt
+Đặng Sơn Nguyên	65	tốt
+Đặng Thái Nguyên	65	tốt
+Đặng Thiên Nguyên	65	tốt
+Đặng Thụy Nguyên	62,5	tốt
+Đặng Cận Nguyên	45	trung bình
+Đặng Chỉ Nguyên	45	trung bình
+Đặng Cương Nguyên	45	trung bình
+Đặng Đan Nguyên	45	trung bình
+Đặng Hữu Nguyên	45	trung bình
+Đặng Hào Nguyên	45	trung bình
+Đặng Kiến Nguyên	45	trung bình
+Đặng Kim Nguyên	45	trung bình
+Đặng Nhật Nguyên	45	trung bình
+Đặng Phong Nguyên	45	trung bình
+Đặng Sang Nguyên	45	trung bình
+Đặng Thế Nguyên	45	trung bình
+Đặng Thư Nguyên	45	trung bình
+Đặng Trung Nguyên	45	trung bình
+Đặng Tùng Nguyên	45	trung bình
+Đặng Tường Nguyên	45	trung bình
+Đặng Viết Nguyên	45	trung bình
+Đặng Vương Nguyên	45	trung bình
+Đặng Vượng Nguyên	45	trung bình
+Đặng Bá Nguyên	35	tạm được
+Đặng Bạch Nguyên	35	tạm được
+Đặng Bắc Nguyên	35	tạm được
+Đặng Bằng Nguyên	35	tạm được
+Đặng Bình Nguyên	35	tạm được
+Đặng Ca Nguyên	35	tạm được
+Đặng Chính Nguyên	35	tạm được
+Đặng Dân Nguyên	35	tạm được
+Đặng Di Nguyên	35	tạm được
+Đặng Điền Nguyên	35	tạm được
+Đặng Đông Nguyên	35	tạm được
+Đặng Gia Nguyên	35	tạm được
+Đặng Giáp Nguyên	35	tạm được
+Đặng Hòa Nguyên	35	tạm được
+Đặng Hiệp Nguyên	35	tạm được
+Đặng Hồng Nguyên	35	tạm được
+Đặng Huấn Nguyên	35	tạm được
+Đặng Kỳ Nguyên	35	tạm được
+Đặng Lễ Nguyên	35	tạm được
+Đặng Lập Nguyên	35	tạm được
+Đặng Long Nguyên	35	tạm được
+Đặng Lư Nguyên	35	tạm được
+Đặng Ngọc Nguyên	35	tạm được
+Đặng Nghiệp Nguyên	35	tạm được
+Đặng Ninh Nguyên	35	tạm được
+Đặng Sinh Nguyên	35	tạm được
+Đặng Thạch Nguyên	35	tạm được
+Đặng Thông Nguyên	35	tạm được
+Đặng Triệu Nguyên	35	tạm được
+Đặng Trường Nguyên	35	tạm được
+Đặng Vũ Nguyên	35	tạm được
+Đặng Vĩnh Nguyên	35	tạm được

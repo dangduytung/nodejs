@@ -1,0 +1,185 @@
+Đặng Cường Trường	90	cực tốt
+Đặng Đắc Trường	90	cực tốt
+Đặng Điệp Trường	90	cực tốt
+Đặng Lê Trường	90	cực tốt
+Đặng Thạc Trường	90	cực tốt
+Đặng Thịnh Trường	90	cực tốt
+Đặng Tuệ Trường	90	cực tốt
+Đặng Anh Trường	80	cực tốt
+Đặng Cao Trường	80	cực tốt
+Đặng Cần Trường	80	cực tốt
+Đặng Định Trường	80	cực tốt
+Đặng Đôn Trường	80	cực tốt
+Đặng Hiền Trường	80	cực tốt
+Đặng Huỳnh Trường	80	cực tốt
+Đặng Khang Trường	80	cực tốt
+Đặng Kiệt Trường	80	cực tốt
+Đặng Lĩnh Trường	80	cực tốt
+Đặng Lâm Trường	80	cực tốt
+Đặng Mạnh Trường	80	cực tốt
+Đặng Minh Trường	80	cực tốt
+Đặng Quý Trường	80	cực tốt
+Đặng Quốc Trường	80	cực tốt
+Đặng Thiện Trường	80	cực tốt
+Đặng Tiến Trường	80	cực tốt
+Đặng Tính Trường	80	cực tốt
+Đặng Trí Trường	80	cực tốt
+Đặng Uy Trường	80	cực tốt
+Đặng Võ Trường	80	cực tốt
+Đặng Xuân Trường	80	cực tốt
+Đặng An Trường	75	tốt
+Đặng Ân Trường	75	tốt
+Đặng Bách Trường	75	tốt
+Đặng Bửu Trường	75	tốt
+Đặng Cấn Trường	75	tốt
+Đặng Châu Trường	75	tốt
+Đặng Chấn Trường	75	tốt
+Đặng Chí Trường	75	tốt
+Đặng Danh Trường	75	tốt
+Đặng Duệ Trường	75	tốt
+Đặng Dương Trường	75	tốt
+Đặng Đạo Trường	75	tốt
+Đặng Đăng Trường	75	tốt
+Đặng Đình Trường	75	tốt
+Đặng Đoàn Trường	75	tốt
+Đặng Giang Trường	75	tốt
+Đặng Hải Trường	75	tốt
+Đặng Hảo Trường	75	tốt
+Đặng Hậu Trường	75	tốt
+Đặng Hoan Trường	75	tốt
+Đặng Hoà Trường	75	tốt
+Đặng Huy Trường	75	tốt
+Đặng Hưng Trường	75	tốt
+Đặng Khanh Trường	75	tốt
+Đặng Khánh Trường	75	tốt
+Đặng Khải Trường	75	tốt
+Đặng Khôi Trường	75	tốt
+Đặng Khương Trường	75	tốt
+Đặng Kiện Trường	75	tốt
+Đặng Lộc Trường	75	tốt
+Đặng Luận Trường	75	tốt
+Đặng Nam Trường	75	tốt
+Đặng Ngạn Trường	75	tốt
+Đặng Nguyễn Trường	75	tốt
+Đặng Phước Trường	75	tốt
+Đặng Quang Trường	75	tốt
+Đặng Quyền Trường	75	tốt
+Đặng Sỹ Trường	75	tốt
+Đặng Sáng Trường	75	tốt
+Đặng Thụy Trường	75	tốt
+Đặng Tín Trường	75	tốt
+Đặng Toàn Trường	75	tốt
+Đặng Toản Trường	75	tốt
+Đặng Trọng Trường	75	tốt
+Đặng Triết Trường	75	tốt
+Đặng Trụ Trường	75	tốt
+Đặng Vỹ Trường	75	tốt
+Đặng Việt Trường	75	tốt
+Đặng Vinh Trường	75	tốt
+Đặng Ánh Trường	65	tốt
+Đặng Cẩn Trường	65	tốt
+Đặng Chiến Trường	65	tốt
+Đặng Công Trường	65	tốt
+Đặng Doanh Trường	65	tốt
+Đặng Đại Trường	65	tốt
+Đặng Hiển Trường	65	tốt
+Đặng Hoàn Trường	65	tốt
+Đặng Hoàng Trường	65	tốt
+Đặng Hoạt Trường	65	tốt
+Đặng Huân Trường	65	tốt
+Đặng Luật Trường	65	tốt
+Đặng Mỹ Trường	65	tốt
+Đặng Nghĩa Trường	65	tốt
+Đặng Nhân Trường	65	tốt
+Đặng Phi Trường	65	tốt
+Đặng Phú Trường	65	tốt
+Đặng Phúc Trường	65	tốt
+Đặng Phương Trường	65	tốt
+Đặng Quỳnh Trường	65	tốt
+Đặng Quảng Trường	65	tốt
+Đặng Sam Trường	65	tốt
+Đặng Sơn Trường	65	tốt
+Đặng Thái Trường	65	tốt
+Đặng Thắng Trường	65	tốt
+Đặng Thiên Trường	65	tốt
+Đặng Thuận Trường	65	tốt
+Đặng Thuyết Trường	65	tốt
+Đặng Thường Trường	65	tốt
+Đặng Trịnh Trường	65	tốt
+Đặng Tuấn Trường	65	tốt
+Đặng Tưởng Trường	65	tốt
+Đặng Bảo Trường	60	tốt
+Đặng Dũng Trường	60	tốt
+Đặng Diệu Trường	60	tốt
+Đặng Du Trường	60	tốt
+Đặng Duy Trường	60	tốt
+Đặng Đạt Trường	60	tốt
+Đặng Đức Trường	60	tốt
+Đặng Hà Trường	60	tốt
+Đặng Hoài Trường	60	tốt
+Đặng Hùng Trường	60	tốt
+Đặng Hưởng Trường	60	tốt
+Đặng Kiên Trường	60	tốt
+Đặng Lý Trường	60	tốt
+Đặng Liêm Trường	60	tốt
+Đặng Lợi Trường	60	tốt
+Đặng Lương Trường	60	tốt
+Đặng Ngôn Trường	60	tốt
+Đặng Thọ Trường	60	tốt
+Đặng Thanh Trường	60	tốt
+Đặng Thành Trường	60	tốt
+Đặng Trình Trường	60	tốt
+Đặng Trương Trường	60	tốt
+Đặng Tú Trường	60	tốt
+Đặng Văn Trường	60	tốt
+Đặng Bá Trường	45	trung bình
+Đặng Bạch Trường	45	trung bình
+Đặng Bắc Trường	45	trung bình
+Đặng Bằng Trường	45	trung bình
+Đặng Bình Trường	45	trung bình
+Đặng Ca Trường	45	trung bình
+Đặng Chính Trường	45	trung bình
+Đặng Dân Trường	45	trung bình
+Đặng Di Trường	45	trung bình
+Đặng Điền Trường	45	trung bình
+Đặng Đông Trường	45	trung bình
+Đặng Gia Trường	45	trung bình
+Đặng Giáp Trường	45	trung bình
+Đặng Hòa Trường	45	trung bình
+Đặng Hiệp Trường	45	trung bình
+Đặng Hồng Trường	45	trung bình
+Đặng Huấn Trường	45	trung bình
+Đặng Kỳ Trường	45	trung bình
+Đặng Lễ Trường	45	trung bình
+Đặng Lập Trường	45	trung bình
+Đặng Long Trường	45	trung bình
+Đặng Lư Trường	45	trung bình
+Đặng Ngọc Trường	45	trung bình
+Đặng Nghiệp Trường	45	trung bình
+Đặng Ninh Trường	45	trung bình
+Đặng Sinh Trường	45	trung bình
+Đặng Thạch Trường	45	trung bình
+Đặng Thông Trường	45	trung bình
+Đặng Triệu Trường	45	trung bình
+Đặng Vũ Trường	45	trung bình
+Đặng Vĩnh Trường	45	trung bình
+Đặng Cận Trường	35	tạm được
+Đặng Chỉ Trường	35	tạm được
+Đặng Cương Trường	35	tạm được
+Đặng Đan Trường	35	tạm được
+Đặng Hữu Trường	35	tạm được
+Đặng Hào Trường	35	tạm được
+Đặng Kiến Trường	35	tạm được
+Đặng Kim Trường	35	tạm được
+Đặng Nguyên Trường	35	tạm được
+Đặng Nhật Trường	35	tạm được
+Đặng Phong Trường	35	tạm được
+Đặng Sang Trường	35	tạm được
+Đặng Thế Trường	35	tạm được
+Đặng Thư Trường	35	tạm được
+Đặng Trung Trường	35	tạm được
+Đặng Tùng Trường	35	tạm được
+Đặng Tường Trường	35	tạm được
+Đặng Viết Trường	35	tạm được
+Đặng Vương Trường	35	tạm được
+Đặng Vượng Trường	35	tạm được

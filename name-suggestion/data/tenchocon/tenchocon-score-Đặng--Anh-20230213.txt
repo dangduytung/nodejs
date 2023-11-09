@@ -1,0 +1,185 @@
+Đặng Ân Anh	82,5	cực tốt
+Đặng Cao Anh	82,5	cực tốt
+Đặng Cần Anh	82,5	cực tốt
+Đặng Chấn Anh	82,5	cực tốt
+Đặng Định Anh	82,5	cực tốt
+Đặng Đôn Anh	82,5	cực tốt
+Đặng Hải Anh	82,5	cực tốt
+Đặng Hiền Anh	82,5	cực tốt
+Đặng Huỳnh Anh	82,5	cực tốt
+Đặng Khang Anh	82,5	cực tốt
+Đặng Kiệt Anh	82,5	cực tốt
+Đặng Lĩnh Anh	82,5	cực tốt
+Đặng Lâm Anh	82,5	cực tốt
+Đặng Mạnh Anh	82,5	cực tốt
+Đặng Minh Anh	82,5	cực tốt
+Đặng Quý Anh	82,5	cực tốt
+Đặng Quốc Anh	82,5	cực tốt
+Đặng Thiện Anh	82,5	cực tốt
+Đặng Tiến Anh	82,5	cực tốt
+Đặng Tính Anh	82,5	cực tốt
+Đặng Toản Anh	82,5	cực tốt
+Đặng Triết Anh	82,5	cực tốt
+Đặng Trí Anh	82,5	cực tốt
+Đặng Uy Anh	82,5	cực tốt
+Đặng Võ Anh	82,5	cực tốt
+Đặng Việt Anh	82,5	cực tốt
+Đặng Vinh Anh	82,5	cực tốt
+Đặng Xuân Anh	82,5	cực tốt
+Đặng Bửu Anh	75	tốt
+Đặng Hoà Anh	75	tốt
+Đặng Phước Anh	75	tốt
+Đặng Sỹ Anh	75	tốt
+Đặng Vỹ Anh	75	tốt
+Đặng Cường Anh	70	tốt
+Đặng Đắc Anh	70	tốt
+Đặng Điệp Anh	70	tốt
+Đặng Lê Anh	70	tốt
+Đặng Thạc Anh	70	tốt
+Đặng Thịnh Anh	70	tốt
+Đặng Tuệ Anh	70	tốt
+Đặng Nhân Anh	67,5	tốt
+Đặng Phương Anh	67,5	tốt
+Đặng Đức Anh	62,5	tốt
+Đặng Hùng Anh	62,5	tốt
+Đặng Cẩn Anh	60	tốt
+Đặng Công Anh	60	tốt
+Đặng Đại Anh	60	tốt
+Đặng Hoàn Anh	60	tốt
+Đặng Nghĩa Anh	60	tốt
+Đặng Phi Anh	60	tốt
+Đặng Quảng Anh	60	tốt
+Đặng Sam Anh	60	tốt
+Đặng Sơn Anh	60	tốt
+Đặng Thái Anh	60	tốt
+Đặng Thiên Anh	60	tốt
+Đặng An Anh	52,5	trung bình
+Đặng Bách Anh	52,5	trung bình
+Đặng Cấn Anh	52,5	trung bình
+Đặng Châu Anh	52,5	trung bình
+Đặng Chí Anh	52,5	trung bình
+Đặng Danh Anh	52,5	trung bình
+Đặng Duệ Anh	52,5	trung bình
+Đặng Dương Anh	52,5	trung bình
+Đặng Đạo Anh	52,5	trung bình
+Đặng Đăng Anh	52,5	trung bình
+Đặng Đình Anh	52,5	trung bình
+Đặng Đoàn Anh	52,5	trung bình
+Đặng Giang Anh	52,5	trung bình
+Đặng Hảo Anh	52,5	trung bình
+Đặng Hậu Anh	52,5	trung bình
+Đặng Hoan Anh	52,5	trung bình
+Đặng Huy Anh	52,5	trung bình
+Đặng Hưng Anh	52,5	trung bình
+Đặng Khanh Anh	52,5	trung bình
+Đặng Khánh Anh	52,5	trung bình
+Đặng Khải Anh	52,5	trung bình
+Đặng Khôi Anh	52,5	trung bình
+Đặng Khương Anh	52,5	trung bình
+Đặng Kiện Anh	52,5	trung bình
+Đặng Lộc Anh	52,5	trung bình
+Đặng Luận Anh	52,5	trung bình
+Đặng Nam Anh	52,5	trung bình
+Đặng Ngạn Anh	52,5	trung bình
+Đặng Nguyễn Anh	52,5	trung bình
+Đặng Quang Anh	52,5	trung bình
+Đặng Quyền Anh	52,5	trung bình
+Đặng Sáng Anh	52,5	trung bình
+Đặng Thụy Anh	52,5	trung bình
+Đặng Tín Anh	52,5	trung bình
+Đặng Toàn Anh	52,5	trung bình
+Đặng Trọng Anh	52,5	trung bình
+Đặng Trụ Anh	52,5	trung bình
+Đặng Cận Anh	50	trung bình
+Đặng Chỉ Anh	50	trung bình
+Đặng Cương Anh	50	trung bình
+Đặng Đan Anh	50	trung bình
+Đặng Hữu Anh	50	trung bình
+Đặng Hào Anh	50	trung bình
+Đặng Kiến Anh	50	trung bình
+Đặng Kim Anh	50	trung bình
+Đặng Nguyên Anh	50	trung bình
+Đặng Nhật Anh	50	trung bình
+Đặng Phong Anh	50	trung bình
+Đặng Sang Anh	50	trung bình
+Đặng Thế Anh	50	trung bình
+Đặng Thư Anh	50	trung bình
+Đặng Trung Anh	50	trung bình
+Đặng Tùng Anh	50	trung bình
+Đặng Tường Anh	50	trung bình
+Đặng Viết Anh	50	trung bình
+Đặng Vương Anh	50	trung bình
+Đặng Vượng Anh	50	trung bình
+Đặng Bảo Anh	42,5	trung bình
+Đặng Dũng Anh	42,5	trung bình
+Đặng Diệu Anh	42,5	trung bình
+Đặng Du Anh	42,5	trung bình
+Đặng Duy Anh	42,5	trung bình
+Đặng Đạt Anh	42,5	trung bình
+Đặng Hà Anh	42,5	trung bình
+Đặng Hoài Anh	42,5	trung bình
+Đặng Hưởng Anh	42,5	trung bình
+Đặng Kiên Anh	42,5	trung bình
+Đặng Lý Anh	42,5	trung bình
+Đặng Liêm Anh	42,5	trung bình
+Đặng Lợi Anh	42,5	trung bình
+Đặng Lương Anh	42,5	trung bình
+Đặng Ngôn Anh	42,5	trung bình
+Đặng Thọ Anh	42,5	trung bình
+Đặng Thanh Anh	42,5	trung bình
+Đặng Thành Anh	42,5	trung bình
+Đặng Trình Anh	42,5	trung bình
+Đặng Trương Anh	42,5	trung bình
+Đặng Tú Anh	42,5	trung bình
+Đặng Văn Anh	42,5	trung bình
+Đặng Ánh Anh	40	trung bình
+Đặng Bá Anh	40	trung bình
+Đặng Bạch Anh	40	trung bình
+Đặng Bắc Anh	40	trung bình
+Đặng Bằng Anh	40	trung bình
+Đặng Bình Anh	40	trung bình
+Đặng Ca Anh	40	trung bình
+Đặng Chiến Anh	40	trung bình
+Đặng Chính Anh	40	trung bình
+Đặng Dân Anh	40	trung bình
+Đặng Di Anh	40	trung bình
+Đặng Doanh Anh	40	trung bình
+Đặng Điền Anh	40	trung bình
+Đặng Đông Anh	40	trung bình
+Đặng Gia Anh	40	trung bình
+Đặng Giáp Anh	40	trung bình
+Đặng Hòa Anh	40	trung bình
+Đặng Hiển Anh	40	trung bình
+Đặng Hiệp Anh	40	trung bình
+Đặng Hoàng Anh	40	trung bình
+Đặng Hoạt Anh	40	trung bình
+Đặng Hồng Anh	40	trung bình
+Đặng Huân Anh	40	trung bình
+Đặng Huấn Anh	40	trung bình
+Đặng Kỳ Anh	40	trung bình
+Đặng Lễ Anh	40	trung bình
+Đặng Lập Anh	40	trung bình
+Đặng Long Anh	40	trung bình
+Đặng Luật Anh	40	trung bình
+Đặng Lư Anh	40	trung bình
+Đặng Mỹ Anh	40	trung bình
+Đặng Ngọc Anh	40	trung bình
+Đặng Nghiệp Anh	40	trung bình
+Đặng Ninh Anh	40	trung bình
+Đặng Phú Anh	40	trung bình
+Đặng Phúc Anh	40	trung bình
+Đặng Quỳnh Anh	40	trung bình
+Đặng Sinh Anh	40	trung bình
+Đặng Thạch Anh	40	trung bình
+Đặng Thắng Anh	40	trung bình
+Đặng Thông Anh	40	trung bình
+Đặng Thuận Anh	40	trung bình
+Đặng Thuyết Anh	40	trung bình
+Đặng Thường Anh	40	trung bình
+Đặng Triệu Anh	40	trung bình
+Đặng Trịnh Anh	40	trung bình
+Đặng Trường Anh	40	trung bình
+Đặng Tuấn Anh	40	trung bình
+Đặng Tưởng Anh	40	trung bình
+Đặng Vũ Anh	40	trung bình
+Đặng Vĩnh Anh	40	trung bình

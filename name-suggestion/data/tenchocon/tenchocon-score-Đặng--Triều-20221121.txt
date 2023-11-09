@@ -1,0 +1,186 @@
+Đặng Bửu Triều	77,5	tốt
+Đặng Hoà Triều	77,5	tốt
+Đặng Phước Triều	77,5	tốt
+Đặng Sỹ Triều	77,5	tốt
+Đặng Vỹ Triều	77,5	tốt
+Đặng An Triều	75	tốt
+Đặng Bách Triều	75	tốt
+Đặng Cấn Triều	75	tốt
+Đặng Châu Triều	75	tốt
+Đặng Chí Triều	75	tốt
+Đặng Danh Triều	75	tốt
+Đặng Duệ Triều	75	tốt
+Đặng Dương Triều	75	tốt
+Đặng Đạo Triều	75	tốt
+Đặng Đăng Triều	75	tốt
+Đặng Đình Triều	75	tốt
+Đặng Đoàn Triều	75	tốt
+Đặng Giang Triều	75	tốt
+Đặng Hảo Triều	75	tốt
+Đặng Hậu Triều	75	tốt
+Đặng Hoan Triều	75	tốt
+Đặng Huy Triều	75	tốt
+Đặng Hưng Triều	75	tốt
+Đặng Khanh Triều	75	tốt
+Đặng Khánh Triều	75	tốt
+Đặng Khải Triều	75	tốt
+Đặng Khôi Triều	75	tốt
+Đặng Khương Triều	75	tốt
+Đặng Kiện Triều	75	tốt
+Đặng Lộc Triều	75	tốt
+Đặng Luận Triều	75	tốt
+Đặng Nam Triều	75	tốt
+Đặng Ngạn Triều	75	tốt
+Đặng Nguyễn Triều	75	tốt
+Đặng Quang Triều	75	tốt
+Đặng Quyền Triều	75	tốt
+Đặng Sáng Triều	75	tốt
+Đặng Tín Triều	75	tốt
+Đặng Toàn Triều	75	tốt
+Đặng Trọng Triều	75	tốt
+Đặng Trụ Triều	75	tốt
+Đặng Ân Triều	72,5	tốt
+Đặng Chấn Triều	72,5	tốt
+Đặng Hải Triều	72,5	tốt
+Đặng Toản Triều	72,5	tốt
+Đặng Triết Triều	72,5	tốt
+Đặng Việt Triều	72,5	tốt
+Đặng Vinh Triều	72,5	tốt
+Đặng Anh Triều	65	tốt
+Đặng Cao Triều	65	tốt
+Đặng Cần Triều	65	tốt
+Đặng Định Triều	65	tốt
+Đặng Đôn Triều	65	tốt
+Đặng Hiền Triều	65	tốt
+Đặng Huỳnh Triều	65	tốt
+Đặng Khang Triều	65	tốt
+Đặng Kiệt Triều	65	tốt
+Đặng Lĩnh Triều	65	tốt
+Đặng Lâm Triều	65	tốt
+Đặng Mạnh Triều	65	tốt
+Đặng Minh Triều	65	tốt
+Đặng Quý Triều	65	tốt
+Đặng Quốc Triều	65	tốt
+Đặng Thiện Triều	65	tốt
+Đặng Tiến Triều	65	tốt
+Đặng Tính Triều	65	tốt
+Đặng Trí Triều	65	tốt
+Đặng Uy Triều	65	tốt
+Đặng Võ Triều	65	tốt
+Đặng Xuân Triều	65	tốt
+Đặng Ánh Triều	62,5	tốt
+Đặng Cẩn Triều	62,5	tốt
+Đặng Chiến Triều	62,5	tốt
+Đặng Công Triều	62,5	tốt
+Đặng Doanh Triều	62,5	tốt
+Đặng Đại Triều	62,5	tốt
+Đặng Hiển Triều	62,5	tốt
+Đặng Hoàn Triều	62,5	tốt
+Đặng Hoàng Triều	62,5	tốt
+Đặng Hoạt Triều	62,5	tốt
+Đặng Huân Triều	62,5	tốt
+Đặng Luật Triều	62,5	tốt
+Đặng Mỹ Triều	62,5	tốt
+Đặng Nghĩa Triều	62,5	tốt
+Đặng Nhân Triều	62,5	tốt
+Đặng Phi Triều	62,5	tốt
+Đặng Phú Triều	62,5	tốt
+Đặng Phúc Triều	62,5	tốt
+Đặng Phương Triều	62,5	tốt
+Đặng Quỳnh Triều	62,5	tốt
+Đặng Quảng Triều	62,5	tốt
+Đặng Sam Triều	62,5	tốt
+Đặng Sơn Triều	62,5	tốt
+Đặng Thái Triều	62,5	tốt
+Đặng Thắng Triều	62,5	tốt
+Đặng Thiên Triều	62,5	tốt
+Đặng Thuận Triều	62,5	tốt
+Đặng Thuyết Triều	62,5	tốt
+Đặng Thường Triều	62,5	tốt
+Đặng Trịnh Triều	62,5	tốt
+Đặng Tuấn Triều	62,5	tốt
+Đặng Tưởng Triều	62,5	tốt
+Đặng Cường Triều	60	tốt
+Đặng Đắc Triều	60	tốt
+Đặng Điệp Triều	60	tốt
+Đặng Lê Triều	60	tốt
+Đặng Thạc Triều	60	tốt
+Đặng Thịnh Triều	60	tốt
+Đặng Tuệ Triều	60	tốt
+Đặng Thụy Triều	57,5	trung bình
+Đặng Đức Triều	50	trung bình
+Đặng Hùng Triều	50	trung bình
+Đặng Bá Triều	37,5	tạm được
+Đặng Bảo Triều	37,5	tạm được
+Đặng Bạch Triều	37,5	tạm được
+Đặng Bắc Triều	37,5	tạm được
+Đặng Bằng Triều	37,5	tạm được
+Đặng Bình Triều	37,5	tạm được
+Đặng Ca Triều	37,5	tạm được
+Đặng Cận Triều	37,5	tạm được
+Đặng Chính Triều	37,5	tạm được
+Đặng Chỉ Triều	37,5	tạm được
+Đặng Cương Triều	37,5	tạm được
+Đặng Dũng Triều	37,5	tạm được
+Đặng Dân Triều	37,5	tạm được
+Đặng Di Triều	37,5	tạm được
+Đặng Diệu Triều	37,5	tạm được
+Đặng Du Triều	37,5	tạm được
+Đặng Duy Triều	37,5	tạm được
+Đặng Đan Triều	37,5	tạm được
+Đặng Đạt Triều	37,5	tạm được
+Đặng Điền Triều	37,5	tạm được
+Đặng Đông Triều	37,5	tạm được
+Đặng Gia Triều	37,5	tạm được
+Đặng Giáp Triều	37,5	tạm được
+Đặng Hòa Triều	37,5	tạm được
+Đặng Hữu Triều	37,5	tạm được
+Đặng Hà Triều	37,5	tạm được
+Đặng Hào Triều	37,5	tạm được
+Đặng Hiệp Triều	37,5	tạm được
+Đặng Hoài Triều	37,5	tạm được
+Đặng Hồng Triều	37,5	tạm được
+Đặng Huấn Triều	37,5	tạm được
+Đặng Hưởng Triều	37,5	tạm được
+Đặng Kỳ Triều	37,5	tạm được
+Đặng Kiên Triều	37,5	tạm được
+Đặng Kiến Triều	37,5	tạm được
+Đặng Kim Triều	37,5	tạm được
+Đặng Lễ Triều	37,5	tạm được
+Đặng Lý Triều	37,5	tạm được
+Đặng Lập Triều	37,5	tạm được
+Đặng Liêm Triều	37,5	tạm được
+Đặng Long Triều	37,5	tạm được
+Đặng Lợi Triều	37,5	tạm được
+Đặng Lư Triều	37,5	tạm được
+Đặng Lương Triều	37,5	tạm được
+Đặng Ngọc Triều	37,5	tạm được
+Đặng Nghiệp Triều	37,5	tạm được
+Đặng Ngôn Triều	37,5	tạm được
+Đặng Nguyên Triều	37,5	tạm được
+Đặng Nhật Triều	37,5	tạm được
+Đặng Ninh Triều	37,5	tạm được
+Đặng Phong Triều	37,5	tạm được
+Đặng Sang Triều	37,5	tạm được
+Đặng Sinh Triều	37,5	tạm được
+Đặng Thọ Triều	37,5	tạm được
+Đặng Thanh Triều	37,5	tạm được
+Đặng Thành Triều	37,5	tạm được
+Đặng Thạch Triều	37,5	tạm được
+Đặng Thế Triều	37,5	tạm được
+Đặng Thông Triều	37,5	tạm được
+Đặng Thư Triều	37,5	tạm được
+Đặng Triệu Triều	37,5	tạm được
+Đặng Trình Triều	37,5	tạm được
+Đặng Trung Triều	37,5	tạm được
+Đặng Trương Triều	37,5	tạm được
+Đặng Trường Triều	37,5	tạm được
+Đặng Tú Triều	37,5	tạm được
+Đặng Tùng Triều	37,5	tạm được
+Đặng Tường Triều	37,5	tạm được
+Đặng Vũ Triều	37,5	tạm được
+Đặng Vĩnh Triều	37,5	tạm được
+Đặng Văn Triều	37,5	tạm được
+Đặng Viết Triều	37,5	tạm được
+Đặng Vương Triều	37,5	tạm được
+Đặng Vượng Triều	37,5	tạm được

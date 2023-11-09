@@ -1,0 +1,186 @@
+Đặng Anh Đam	82,5	cực tốt
+Đặng Ân Đam	82,5	cực tốt
+Đặng Cao Đam	82,5	cực tốt
+Đặng Cần Đam	82,5	cực tốt
+Đặng Chấn Đam	82,5	cực tốt
+Đặng Định Đam	82,5	cực tốt
+Đặng Đôn Đam	82,5	cực tốt
+Đặng Hải Đam	82,5	cực tốt
+Đặng Hiền Đam	82,5	cực tốt
+Đặng Huỳnh Đam	82,5	cực tốt
+Đặng Khang Đam	82,5	cực tốt
+Đặng Kiệt Đam	82,5	cực tốt
+Đặng Lĩnh Đam	82,5	cực tốt
+Đặng Lâm Đam	82,5	cực tốt
+Đặng Mạnh Đam	82,5	cực tốt
+Đặng Minh Đam	82,5	cực tốt
+Đặng Quý Đam	82,5	cực tốt
+Đặng Quốc Đam	82,5	cực tốt
+Đặng Thiện Đam	82,5	cực tốt
+Đặng Tiến Đam	82,5	cực tốt
+Đặng Tính Đam	82,5	cực tốt
+Đặng Toản Đam	82,5	cực tốt
+Đặng Triết Đam	82,5	cực tốt
+Đặng Trí Đam	82,5	cực tốt
+Đặng Uy Đam	82,5	cực tốt
+Đặng Võ Đam	82,5	cực tốt
+Đặng Việt Đam	82,5	cực tốt
+Đặng Vinh Đam	82,5	cực tốt
+Đặng Xuân Đam	82,5	cực tốt
+Đặng Bửu Đam	75	tốt
+Đặng Hoà Đam	75	tốt
+Đặng Phước Đam	75	tốt
+Đặng Sỹ Đam	75	tốt
+Đặng Vỹ Đam	75	tốt
+Đặng Cường Đam	70	tốt
+Đặng Đắc Đam	70	tốt
+Đặng Điệp Đam	70	tốt
+Đặng Lê Đam	70	tốt
+Đặng Thạc Đam	70	tốt
+Đặng Thịnh Đam	70	tốt
+Đặng Tuệ Đam	70	tốt
+Đặng Nhân Đam	67,5	tốt
+Đặng Phương Đam	67,5	tốt
+Đặng Đức Đam	62,5	tốt
+Đặng Hùng Đam	62,5	tốt
+Đặng Cẩn Đam	60	tốt
+Đặng Công Đam	60	tốt
+Đặng Đại Đam	60	tốt
+Đặng Hoàn Đam	60	tốt
+Đặng Nghĩa Đam	60	tốt
+Đặng Phi Đam	60	tốt
+Đặng Quảng Đam	60	tốt
+Đặng Sam Đam	60	tốt
+Đặng Sơn Đam	60	tốt
+Đặng Thái Đam	60	tốt
+Đặng Thiên Đam	60	tốt
+Đặng An Đam	52,5	trung bình
+Đặng Bách Đam	52,5	trung bình
+Đặng Cấn Đam	52,5	trung bình
+Đặng Châu Đam	52,5	trung bình
+Đặng Chí Đam	52,5	trung bình
+Đặng Danh Đam	52,5	trung bình
+Đặng Duệ Đam	52,5	trung bình
+Đặng Dương Đam	52,5	trung bình
+Đặng Đạo Đam	52,5	trung bình
+Đặng Đăng Đam	52,5	trung bình
+Đặng Đình Đam	52,5	trung bình
+Đặng Đoàn Đam	52,5	trung bình
+Đặng Giang Đam	52,5	trung bình
+Đặng Hảo Đam	52,5	trung bình
+Đặng Hậu Đam	52,5	trung bình
+Đặng Hoan Đam	52,5	trung bình
+Đặng Huy Đam	52,5	trung bình
+Đặng Hưng Đam	52,5	trung bình
+Đặng Khanh Đam	52,5	trung bình
+Đặng Khánh Đam	52,5	trung bình
+Đặng Khải Đam	52,5	trung bình
+Đặng Khôi Đam	52,5	trung bình
+Đặng Khương Đam	52,5	trung bình
+Đặng Kiện Đam	52,5	trung bình
+Đặng Lộc Đam	52,5	trung bình
+Đặng Luận Đam	52,5	trung bình
+Đặng Nam Đam	52,5	trung bình
+Đặng Ngạn Đam	52,5	trung bình
+Đặng Nguyễn Đam	52,5	trung bình
+Đặng Quang Đam	52,5	trung bình
+Đặng Quyền Đam	52,5	trung bình
+Đặng Sáng Đam	52,5	trung bình
+Đặng Thụy Đam	52,5	trung bình
+Đặng Tín Đam	52,5	trung bình
+Đặng Toàn Đam	52,5	trung bình
+Đặng Trọng Đam	52,5	trung bình
+Đặng Trụ Đam	52,5	trung bình
+Đặng Cận Đam	50	trung bình
+Đặng Chỉ Đam	50	trung bình
+Đặng Cương Đam	50	trung bình
+Đặng Đan Đam	50	trung bình
+Đặng Hữu Đam	50	trung bình
+Đặng Hào Đam	50	trung bình
+Đặng Kiến Đam	50	trung bình
+Đặng Kim Đam	50	trung bình
+Đặng Nguyên Đam	50	trung bình
+Đặng Nhật Đam	50	trung bình
+Đặng Phong Đam	50	trung bình
+Đặng Sang Đam	50	trung bình
+Đặng Thế Đam	50	trung bình
+Đặng Thư Đam	50	trung bình
+Đặng Trung Đam	50	trung bình
+Đặng Tùng Đam	50	trung bình
+Đặng Tường Đam	50	trung bình
+Đặng Viết Đam	50	trung bình
+Đặng Vương Đam	50	trung bình
+Đặng Vượng Đam	50	trung bình
+Đặng Bảo Đam	42,5	trung bình
+Đặng Dũng Đam	42,5	trung bình
+Đặng Diệu Đam	42,5	trung bình
+Đặng Du Đam	42,5	trung bình
+Đặng Duy Đam	42,5	trung bình
+Đặng Đạt Đam	42,5	trung bình
+Đặng Hà Đam	42,5	trung bình
+Đặng Hoài Đam	42,5	trung bình
+Đặng Hưởng Đam	42,5	trung bình
+Đặng Kiên Đam	42,5	trung bình
+Đặng Lý Đam	42,5	trung bình
+Đặng Liêm Đam	42,5	trung bình
+Đặng Lợi Đam	42,5	trung bình
+Đặng Lương Đam	42,5	trung bình
+Đặng Ngôn Đam	42,5	trung bình
+Đặng Thọ Đam	42,5	trung bình
+Đặng Thanh Đam	42,5	trung bình
+Đặng Thành Đam	42,5	trung bình
+Đặng Trình Đam	42,5	trung bình
+Đặng Trương Đam	42,5	trung bình
+Đặng Tú Đam	42,5	trung bình
+Đặng Văn Đam	42,5	trung bình
+Đặng Ánh Đam	40	trung bình
+Đặng Bá Đam	40	trung bình
+Đặng Bạch Đam	40	trung bình
+Đặng Bắc Đam	40	trung bình
+Đặng Bằng Đam	40	trung bình
+Đặng Bình Đam	40	trung bình
+Đặng Ca Đam	40	trung bình
+Đặng Chiến Đam	40	trung bình
+Đặng Chính Đam	40	trung bình
+Đặng Dân Đam	40	trung bình
+Đặng Di Đam	40	trung bình
+Đặng Doanh Đam	40	trung bình
+Đặng Điền Đam	40	trung bình
+Đặng Đông Đam	40	trung bình
+Đặng Gia Đam	40	trung bình
+Đặng Giáp Đam	40	trung bình
+Đặng Hòa Đam	40	trung bình
+Đặng Hiển Đam	40	trung bình
+Đặng Hiệp Đam	40	trung bình
+Đặng Hoàng Đam	40	trung bình
+Đặng Hoạt Đam	40	trung bình
+Đặng Hồng Đam	40	trung bình
+Đặng Huân Đam	40	trung bình
+Đặng Huấn Đam	40	trung bình
+Đặng Kỳ Đam	40	trung bình
+Đặng Lễ Đam	40	trung bình
+Đặng Lập Đam	40	trung bình
+Đặng Long Đam	40	trung bình
+Đặng Luật Đam	40	trung bình
+Đặng Lư Đam	40	trung bình
+Đặng Mỹ Đam	40	trung bình
+Đặng Ngọc Đam	40	trung bình
+Đặng Nghiệp Đam	40	trung bình
+Đặng Ninh Đam	40	trung bình
+Đặng Phú Đam	40	trung bình
+Đặng Phúc Đam	40	trung bình
+Đặng Quỳnh Đam	40	trung bình
+Đặng Sinh Đam	40	trung bình
+Đặng Thạch Đam	40	trung bình
+Đặng Thắng Đam	40	trung bình
+Đặng Thông Đam	40	trung bình
+Đặng Thuận Đam	40	trung bình
+Đặng Thuyết Đam	40	trung bình
+Đặng Thường Đam	40	trung bình
+Đặng Triệu Đam	40	trung bình
+Đặng Trịnh Đam	40	trung bình
+Đặng Trường Đam	40	trung bình
+Đặng Tuấn Đam	40	trung bình
+Đặng Tưởng Đam	40	trung bình
+Đặng Vũ Đam	40	trung bình
+Đặng Vĩnh Đam	40	trung bình

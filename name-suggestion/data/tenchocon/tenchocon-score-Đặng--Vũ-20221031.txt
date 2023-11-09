@@ -1,0 +1,185 @@
+Đặng Cường Vũ	90	cực tốt
+Đặng Đắc Vũ	90	cực tốt
+Đặng Điệp Vũ	90	cực tốt
+Đặng Lê Vũ	90	cực tốt
+Đặng Thạc Vũ	90	cực tốt
+Đặng Thịnh Vũ	90	cực tốt
+Đặng Tuệ Vũ	90	cực tốt
+Đặng Anh Vũ	80	cực tốt
+Đặng Cao Vũ	80	cực tốt
+Đặng Cần Vũ	80	cực tốt
+Đặng Định Vũ	80	cực tốt
+Đặng Đôn Vũ	80	cực tốt
+Đặng Hiền Vũ	80	cực tốt
+Đặng Huỳnh Vũ	80	cực tốt
+Đặng Khang Vũ	80	cực tốt
+Đặng Kiệt Vũ	80	cực tốt
+Đặng Lĩnh Vũ	80	cực tốt
+Đặng Lâm Vũ	80	cực tốt
+Đặng Mạnh Vũ	80	cực tốt
+Đặng Minh Vũ	80	cực tốt
+Đặng Quý Vũ	80	cực tốt
+Đặng Quốc Vũ	80	cực tốt
+Đặng Thiện Vũ	80	cực tốt
+Đặng Tiến Vũ	80	cực tốt
+Đặng Tính Vũ	80	cực tốt
+Đặng Trí Vũ	80	cực tốt
+Đặng Uy Vũ	80	cực tốt
+Đặng Võ Vũ	80	cực tốt
+Đặng Xuân Vũ	80	cực tốt
+Đặng An Vũ	75	tốt
+Đặng Ân Vũ	75	tốt
+Đặng Bách Vũ	75	tốt
+Đặng Bửu Vũ	75	tốt
+Đặng Cấn Vũ	75	tốt
+Đặng Châu Vũ	75	tốt
+Đặng Chấn Vũ	75	tốt
+Đặng Chí Vũ	75	tốt
+Đặng Danh Vũ	75	tốt
+Đặng Duệ Vũ	75	tốt
+Đặng Dương Vũ	75	tốt
+Đặng Đạo Vũ	75	tốt
+Đặng Đăng Vũ	75	tốt
+Đặng Đình Vũ	75	tốt
+Đặng Đoàn Vũ	75	tốt
+Đặng Giang Vũ	75	tốt
+Đặng Hải Vũ	75	tốt
+Đặng Hảo Vũ	75	tốt
+Đặng Hậu Vũ	75	tốt
+Đặng Hoan Vũ	75	tốt
+Đặng Hoà Vũ	75	tốt
+Đặng Huy Vũ	75	tốt
+Đặng Hưng Vũ	75	tốt
+Đặng Khanh Vũ	75	tốt
+Đặng Khánh Vũ	75	tốt
+Đặng Khải Vũ	75	tốt
+Đặng Khôi Vũ	75	tốt
+Đặng Khương Vũ	75	tốt
+Đặng Kiện Vũ	75	tốt
+Đặng Lộc Vũ	75	tốt
+Đặng Luận Vũ	75	tốt
+Đặng Nam Vũ	75	tốt
+Đặng Ngạn Vũ	75	tốt
+Đặng Nguyễn Vũ	75	tốt
+Đặng Phước Vũ	75	tốt
+Đặng Quang Vũ	75	tốt
+Đặng Quyền Vũ	75	tốt
+Đặng Sỹ Vũ	75	tốt
+Đặng Sáng Vũ	75	tốt
+Đặng Thụy Vũ	75	tốt
+Đặng Tín Vũ	75	tốt
+Đặng Toàn Vũ	75	tốt
+Đặng Toản Vũ	75	tốt
+Đặng Trọng Vũ	75	tốt
+Đặng Triết Vũ	75	tốt
+Đặng Trụ Vũ	75	tốt
+Đặng Vỹ Vũ	75	tốt
+Đặng Việt Vũ	75	tốt
+Đặng Vinh Vũ	75	tốt
+Đặng Ánh Vũ	65	tốt
+Đặng Cẩn Vũ	65	tốt
+Đặng Chiến Vũ	65	tốt
+Đặng Công Vũ	65	tốt
+Đặng Doanh Vũ	65	tốt
+Đặng Đại Vũ	65	tốt
+Đặng Hiển Vũ	65	tốt
+Đặng Hoàn Vũ	65	tốt
+Đặng Hoàng Vũ	65	tốt
+Đặng Hoạt Vũ	65	tốt
+Đặng Huân Vũ	65	tốt
+Đặng Luật Vũ	65	tốt
+Đặng Mỹ Vũ	65	tốt
+Đặng Nghĩa Vũ	65	tốt
+Đặng Nhân Vũ	65	tốt
+Đặng Phi Vũ	65	tốt
+Đặng Phú Vũ	65	tốt
+Đặng Phúc Vũ	65	tốt
+Đặng Phương Vũ	65	tốt
+Đặng Quỳnh Vũ	65	tốt
+Đặng Quảng Vũ	65	tốt
+Đặng Sam Vũ	65	tốt
+Đặng Sơn Vũ	65	tốt
+Đặng Thái Vũ	65	tốt
+Đặng Thắng Vũ	65	tốt
+Đặng Thiên Vũ	65	tốt
+Đặng Thuận Vũ	65	tốt
+Đặng Thuyết Vũ	65	tốt
+Đặng Thường Vũ	65	tốt
+Đặng Trịnh Vũ	65	tốt
+Đặng Tuấn Vũ	65	tốt
+Đặng Tưởng Vũ	65	tốt
+Đặng Bảo Vũ	60	tốt
+Đặng Dũng Vũ	60	tốt
+Đặng Diệu Vũ	60	tốt
+Đặng Du Vũ	60	tốt
+Đặng Duy Vũ	60	tốt
+Đặng Đạt Vũ	60	tốt
+Đặng Đức Vũ	60	tốt
+Đặng Hà Vũ	60	tốt
+Đặng Hoài Vũ	60	tốt
+Đặng Hùng Vũ	60	tốt
+Đặng Hưởng Vũ	60	tốt
+Đặng Kiên Vũ	60	tốt
+Đặng Lý Vũ	60	tốt
+Đặng Liêm Vũ	60	tốt
+Đặng Lợi Vũ	60	tốt
+Đặng Lương Vũ	60	tốt
+Đặng Ngôn Vũ	60	tốt
+Đặng Thọ Vũ	60	tốt
+Đặng Thanh Vũ	60	tốt
+Đặng Thành Vũ	60	tốt
+Đặng Trình Vũ	60	tốt
+Đặng Trương Vũ	60	tốt
+Đặng Tú Vũ	60	tốt
+Đặng Văn Vũ	60	tốt
+Đặng Bá Vũ	45	trung bình
+Đặng Bạch Vũ	45	trung bình
+Đặng Bắc Vũ	45	trung bình
+Đặng Bằng Vũ	45	trung bình
+Đặng Bình Vũ	45	trung bình
+Đặng Ca Vũ	45	trung bình
+Đặng Chính Vũ	45	trung bình
+Đặng Dân Vũ	45	trung bình
+Đặng Di Vũ	45	trung bình
+Đặng Điền Vũ	45	trung bình
+Đặng Đông Vũ	45	trung bình
+Đặng Gia Vũ	45	trung bình
+Đặng Giáp Vũ	45	trung bình
+Đặng Hòa Vũ	45	trung bình
+Đặng Hiệp Vũ	45	trung bình
+Đặng Hồng Vũ	45	trung bình
+Đặng Huấn Vũ	45	trung bình
+Đặng Kỳ Vũ	45	trung bình
+Đặng Lễ Vũ	45	trung bình
+Đặng Lập Vũ	45	trung bình
+Đặng Long Vũ	45	trung bình
+Đặng Lư Vũ	45	trung bình
+Đặng Ngọc Vũ	45	trung bình
+Đặng Nghiệp Vũ	45	trung bình
+Đặng Ninh Vũ	45	trung bình
+Đặng Sinh Vũ	45	trung bình
+Đặng Thạch Vũ	45	trung bình
+Đặng Thông Vũ	45	trung bình
+Đặng Triệu Vũ	45	trung bình
+Đặng Trường Vũ	45	trung bình
+Đặng Vĩnh Vũ	45	trung bình
+Đặng Cận Vũ	35	tạm được
+Đặng Chỉ Vũ	35	tạm được
+Đặng Cương Vũ	35	tạm được
+Đặng Đan Vũ	35	tạm được
+Đặng Hữu Vũ	35	tạm được
+Đặng Hào Vũ	35	tạm được
+Đặng Kiến Vũ	35	tạm được
+Đặng Kim Vũ	35	tạm được
+Đặng Nguyên Vũ	35	tạm được
+Đặng Nhật Vũ	35	tạm được
+Đặng Phong Vũ	35	tạm được
+Đặng Sang Vũ	35	tạm được
+Đặng Thế Vũ	35	tạm được
+Đặng Thư Vũ	35	tạm được
+Đặng Trung Vũ	35	tạm được
+Đặng Tùng Vũ	35	tạm được
+Đặng Tường Vũ	35	tạm được
+Đặng Viết Vũ	35	tạm được
+Đặng Vương Vũ	35	tạm được
+Đặng Vượng Vũ	35	tạm được

@@ -1,0 +1,185 @@
+Đặng Ân Thái	77,5	tốt
+Đặng Bửu Thái	77,5	tốt
+Đặng Chấn Thái	77,5	tốt
+Đặng Hải Thái	77,5	tốt
+Đặng Hoà Thái	77,5	tốt
+Đặng Phước Thái	77,5	tốt
+Đặng Sỹ Thái	77,5	tốt
+Đặng Toản Thái	77,5	tốt
+Đặng Triết Thái	77,5	tốt
+Đặng Vỹ Thái	77,5	tốt
+Đặng Việt Thái	77,5	tốt
+Đặng Vinh Thái	77,5	tốt
+Đặng Thụy Thái	72,5	tốt
+Đặng Cẩn Thái	70	tốt
+Đặng Công Thái	70	tốt
+Đặng Đại Thái	70	tốt
+Đặng Hoàn Thái	70	tốt
+Đặng Nghĩa Thái	70	tốt
+Đặng Phi Thái	70	tốt
+Đặng Quảng Thái	70	tốt
+Đặng Sam Thái	70	tốt
+Đặng Sơn Thái	70	tốt
+Đặng Thiên Thái	70	tốt
+Đặng Anh Thái	67,5	tốt
+Đặng Cao Thái	67,5	tốt
+Đặng Cần Thái	67,5	tốt
+Đặng Định Thái	67,5	tốt
+Đặng Đôn Thái	67,5	tốt
+Đặng Hiền Thái	67,5	tốt
+Đặng Huỳnh Thái	67,5	tốt
+Đặng Khang Thái	67,5	tốt
+Đặng Kiệt Thái	67,5	tốt
+Đặng Lĩnh Thái	67,5	tốt
+Đặng Lâm Thái	67,5	tốt
+Đặng Mạnh Thái	67,5	tốt
+Đặng Minh Thái	67,5	tốt
+Đặng Quý Thái	67,5	tốt
+Đặng Quốc Thái	67,5	tốt
+Đặng Thiện Thái	67,5	tốt
+Đặng Tiến Thái	67,5	tốt
+Đặng Tính Thái	67,5	tốt
+Đặng Trí Thái	67,5	tốt
+Đặng Uy Thái	67,5	tốt
+Đặng Võ Thái	67,5	tốt
+Đặng Xuân Thái	67,5	tốt
+Đặng Cường Thái	62,5	tốt
+Đặng Đắc Thái	62,5	tốt
+Đặng Điệp Thái	62,5	tốt
+Đặng Lê Thái	62,5	tốt
+Đặng Thạc Thái	62,5	tốt
+Đặng Thịnh Thái	62,5	tốt
+Đặng Tuệ Thái	62,5	tốt
+Đặng Ánh Thái	57,5	trung bình
+Đặng Chiến Thái	57,5	trung bình
+Đặng Doanh Thái	57,5	trung bình
+Đặng Hiển Thái	57,5	trung bình
+Đặng Hoàng Thái	57,5	trung bình
+Đặng Hoạt Thái	57,5	trung bình
+Đặng Huân Thái	57,5	trung bình
+Đặng Luật Thái	57,5	trung bình
+Đặng Mỹ Thái	57,5	trung bình
+Đặng Phú Thái	57,5	trung bình
+Đặng Phúc Thái	57,5	trung bình
+Đặng Quỳnh Thái	57,5	trung bình
+Đặng Thắng Thái	57,5	trung bình
+Đặng Thuận Thái	57,5	trung bình
+Đặng Thuyết Thái	57,5	trung bình
+Đặng Thường Thái	57,5	trung bình
+Đặng Trịnh Thái	57,5	trung bình
+Đặng Tuấn Thái	57,5	trung bình
+Đặng Tưởng Thái	57,5	trung bình
+Đặng Đức Thái	55	trung bình
+Đặng Hùng Thái	55	trung bình
+Đặng Nhân Thái	55	trung bình
+Đặng Phương Thái	55	trung bình
+Đặng Bảo Thái	50	trung bình
+Đặng Dũng Thái	50	trung bình
+Đặng Diệu Thái	50	trung bình
+Đặng Du Thái	50	trung bình
+Đặng Duy Thái	50	trung bình
+Đặng Đạt Thái	50	trung bình
+Đặng Hà Thái	50	trung bình
+Đặng Hoài Thái	50	trung bình
+Đặng Hưởng Thái	50	trung bình
+Đặng Kiên Thái	50	trung bình
+Đặng Lý Thái	50	trung bình
+Đặng Liêm Thái	50	trung bình
+Đặng Lợi Thái	50	trung bình
+Đặng Lương Thái	50	trung bình
+Đặng Ngôn Thái	50	trung bình
+Đặng Thọ Thái	50	trung bình
+Đặng Thanh Thái	50	trung bình
+Đặng Thành Thái	50	trung bình
+Đặng Trình Thái	50	trung bình
+Đặng Trương Thái	50	trung bình
+Đặng Tú Thái	50	trung bình
+Đặng Văn Thái	50	trung bình
+Đặng An Thái	45	trung bình
+Đặng Bách Thái	45	trung bình
+Đặng Cấn Thái	45	trung bình
+Đặng Châu Thái	45	trung bình
+Đặng Chí Thái	45	trung bình
+Đặng Danh Thái	45	trung bình
+Đặng Duệ Thái	45	trung bình
+Đặng Dương Thái	45	trung bình
+Đặng Đạo Thái	45	trung bình
+Đặng Đăng Thái	45	trung bình
+Đặng Đình Thái	45	trung bình
+Đặng Đoàn Thái	45	trung bình
+Đặng Giang Thái	45	trung bình
+Đặng Hảo Thái	45	trung bình
+Đặng Hậu Thái	45	trung bình
+Đặng Hoan Thái	45	trung bình
+Đặng Huy Thái	45	trung bình
+Đặng Hưng Thái	45	trung bình
+Đặng Khanh Thái	45	trung bình
+Đặng Khánh Thái	45	trung bình
+Đặng Khải Thái	45	trung bình
+Đặng Khôi Thái	45	trung bình
+Đặng Khương Thái	45	trung bình
+Đặng Kiện Thái	45	trung bình
+Đặng Lộc Thái	45	trung bình
+Đặng Luận Thái	45	trung bình
+Đặng Nam Thái	45	trung bình
+Đặng Ngạn Thái	45	trung bình
+Đặng Nguyễn Thái	45	trung bình
+Đặng Quang Thái	45	trung bình
+Đặng Quyền Thái	45	trung bình
+Đặng Sáng Thái	45	trung bình
+Đặng Tín Thái	45	trung bình
+Đặng Toàn Thái	45	trung bình
+Đặng Trọng Thái	45	trung bình
+Đặng Trụ Thái	45	trung bình
+Đặng Bá Thái	32,5	tạm được
+Đặng Bạch Thái	32,5	tạm được
+Đặng Bắc Thái	32,5	tạm được
+Đặng Bằng Thái	32,5	tạm được
+Đặng Bình Thái	32,5	tạm được
+Đặng Ca Thái	32,5	tạm được
+Đặng Cận Thái	32,5	tạm được
+Đặng Chính Thái	32,5	tạm được
+Đặng Chỉ Thái	32,5	tạm được
+Đặng Cương Thái	32,5	tạm được
+Đặng Dân Thái	32,5	tạm được
+Đặng Di Thái	32,5	tạm được
+Đặng Đan Thái	32,5	tạm được
+Đặng Điền Thái	32,5	tạm được
+Đặng Đông Thái	32,5	tạm được
+Đặng Gia Thái	32,5	tạm được
+Đặng Giáp Thái	32,5	tạm được
+Đặng Hòa Thái	32,5	tạm được
+Đặng Hữu Thái	32,5	tạm được
+Đặng Hào Thái	32,5	tạm được
+Đặng Hiệp Thái	32,5	tạm được
+Đặng Hồng Thái	32,5	tạm được
+Đặng Huấn Thái	32,5	tạm được
+Đặng Kỳ Thái	32,5	tạm được
+Đặng Kiến Thái	32,5	tạm được
+Đặng Kim Thái	32,5	tạm được
+Đặng Lễ Thái	32,5	tạm được
+Đặng Lập Thái	32,5	tạm được
+Đặng Long Thái	32,5	tạm được
+Đặng Lư Thái	32,5	tạm được
+Đặng Ngọc Thái	32,5	tạm được
+Đặng Nghiệp Thái	32,5	tạm được
+Đặng Nguyên Thái	32,5	tạm được
+Đặng Nhật Thái	32,5	tạm được
+Đặng Ninh Thái	32,5	tạm được
+Đặng Phong Thái	32,5	tạm được
+Đặng Sang Thái	32,5	tạm được
+Đặng Sinh Thái	32,5	tạm được
+Đặng Thạch Thái	32,5	tạm được
+Đặng Thế Thái	32,5	tạm được
+Đặng Thông Thái	32,5	tạm được
+Đặng Thư Thái	32,5	tạm được
+Đặng Triệu Thái	32,5	tạm được
+Đặng Trung Thái	32,5	tạm được
+Đặng Trường Thái	32,5	tạm được
+Đặng Tùng Thái	32,5	tạm được
+Đặng Tường Thái	32,5	tạm được
+Đặng Vũ Thái	32,5	tạm được
+Đặng Vĩnh Thái	32,5	tạm được
+Đặng Viết Thái	32,5	tạm được
+Đặng Vương Thái	32,5	tạm được
+Đặng Vượng Thái	32,5	tạm được

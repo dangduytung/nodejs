@@ -1,0 +1,185 @@
+Đặng Ân Nghĩa	77,5	tốt
+Đặng Bửu Nghĩa	77,5	tốt
+Đặng Chấn Nghĩa	77,5	tốt
+Đặng Hải Nghĩa	77,5	tốt
+Đặng Hoà Nghĩa	77,5	tốt
+Đặng Phước Nghĩa	77,5	tốt
+Đặng Sỹ Nghĩa	77,5	tốt
+Đặng Toản Nghĩa	77,5	tốt
+Đặng Triết Nghĩa	77,5	tốt
+Đặng Vỹ Nghĩa	77,5	tốt
+Đặng Việt Nghĩa	77,5	tốt
+Đặng Vinh Nghĩa	77,5	tốt
+Đặng Thụy Nghĩa	72,5	tốt
+Đặng Cẩn Nghĩa	70	tốt
+Đặng Công Nghĩa	70	tốt
+Đặng Đại Nghĩa	70	tốt
+Đặng Hoàn Nghĩa	70	tốt
+Đặng Phi Nghĩa	70	tốt
+Đặng Quảng Nghĩa	70	tốt
+Đặng Sam Nghĩa	70	tốt
+Đặng Sơn Nghĩa	70	tốt
+Đặng Thái Nghĩa	70	tốt
+Đặng Thiên Nghĩa	70	tốt
+Đặng Anh Nghĩa	67,5	tốt
+Đặng Cao Nghĩa	67,5	tốt
+Đặng Cần Nghĩa	67,5	tốt
+Đặng Định Nghĩa	67,5	tốt
+Đặng Đôn Nghĩa	67,5	tốt
+Đặng Hiền Nghĩa	67,5	tốt
+Đặng Huỳnh Nghĩa	67,5	tốt
+Đặng Khang Nghĩa	67,5	tốt
+Đặng Kiệt Nghĩa	67,5	tốt
+Đặng Lĩnh Nghĩa	67,5	tốt
+Đặng Lâm Nghĩa	67,5	tốt
+Đặng Mạnh Nghĩa	67,5	tốt
+Đặng Minh Nghĩa	67,5	tốt
+Đặng Quý Nghĩa	67,5	tốt
+Đặng Quốc Nghĩa	67,5	tốt
+Đặng Thiện Nghĩa	67,5	tốt
+Đặng Tiến Nghĩa	67,5	tốt
+Đặng Tính Nghĩa	67,5	tốt
+Đặng Trí Nghĩa	67,5	tốt
+Đặng Uy Nghĩa	67,5	tốt
+Đặng Võ Nghĩa	67,5	tốt
+Đặng Xuân Nghĩa	67,5	tốt
+Đặng Cường Nghĩa	62,5	tốt
+Đặng Đắc Nghĩa	62,5	tốt
+Đặng Điệp Nghĩa	62,5	tốt
+Đặng Lê Nghĩa	62,5	tốt
+Đặng Thạc Nghĩa	62,5	tốt
+Đặng Thịnh Nghĩa	62,5	tốt
+Đặng Tuệ Nghĩa	62,5	tốt
+Đặng Ánh Nghĩa	57,5	trung bình
+Đặng Chiến Nghĩa	57,5	trung bình
+Đặng Doanh Nghĩa	57,5	trung bình
+Đặng Hiển Nghĩa	57,5	trung bình
+Đặng Hoàng Nghĩa	57,5	trung bình
+Đặng Hoạt Nghĩa	57,5	trung bình
+Đặng Huân Nghĩa	57,5	trung bình
+Đặng Luật Nghĩa	57,5	trung bình
+Đặng Mỹ Nghĩa	57,5	trung bình
+Đặng Phú Nghĩa	57,5	trung bình
+Đặng Phúc Nghĩa	57,5	trung bình
+Đặng Quỳnh Nghĩa	57,5	trung bình
+Đặng Thắng Nghĩa	57,5	trung bình
+Đặng Thuận Nghĩa	57,5	trung bình
+Đặng Thuyết Nghĩa	57,5	trung bình
+Đặng Thường Nghĩa	57,5	trung bình
+Đặng Trịnh Nghĩa	57,5	trung bình
+Đặng Tuấn Nghĩa	57,5	trung bình
+Đặng Tưởng Nghĩa	57,5	trung bình
+Đặng Đức Nghĩa	55	trung bình
+Đặng Hùng Nghĩa	55	trung bình
+Đặng Nhân Nghĩa	55	trung bình
+Đặng Phương Nghĩa	55	trung bình
+Đặng Bảo Nghĩa	50	trung bình
+Đặng Dũng Nghĩa	50	trung bình
+Đặng Diệu Nghĩa	50	trung bình
+Đặng Du Nghĩa	50	trung bình
+Đặng Duy Nghĩa	50	trung bình
+Đặng Đạt Nghĩa	50	trung bình
+Đặng Hà Nghĩa	50	trung bình
+Đặng Hoài Nghĩa	50	trung bình
+Đặng Hưởng Nghĩa	50	trung bình
+Đặng Kiên Nghĩa	50	trung bình
+Đặng Lý Nghĩa	50	trung bình
+Đặng Liêm Nghĩa	50	trung bình
+Đặng Lợi Nghĩa	50	trung bình
+Đặng Lương Nghĩa	50	trung bình
+Đặng Ngôn Nghĩa	50	trung bình
+Đặng Thọ Nghĩa	50	trung bình
+Đặng Thanh Nghĩa	50	trung bình
+Đặng Thành Nghĩa	50	trung bình
+Đặng Trình Nghĩa	50	trung bình
+Đặng Trương Nghĩa	50	trung bình
+Đặng Tú Nghĩa	50	trung bình
+Đặng Văn Nghĩa	50	trung bình
+Đặng An Nghĩa	45	trung bình
+Đặng Bách Nghĩa	45	trung bình
+Đặng Cấn Nghĩa	45	trung bình
+Đặng Châu Nghĩa	45	trung bình
+Đặng Chí Nghĩa	45	trung bình
+Đặng Danh Nghĩa	45	trung bình
+Đặng Duệ Nghĩa	45	trung bình
+Đặng Dương Nghĩa	45	trung bình
+Đặng Đạo Nghĩa	45	trung bình
+Đặng Đăng Nghĩa	45	trung bình
+Đặng Đình Nghĩa	45	trung bình
+Đặng Đoàn Nghĩa	45	trung bình
+Đặng Giang Nghĩa	45	trung bình
+Đặng Hảo Nghĩa	45	trung bình
+Đặng Hậu Nghĩa	45	trung bình
+Đặng Hoan Nghĩa	45	trung bình
+Đặng Huy Nghĩa	45	trung bình
+Đặng Hưng Nghĩa	45	trung bình
+Đặng Khanh Nghĩa	45	trung bình
+Đặng Khánh Nghĩa	45	trung bình
+Đặng Khải Nghĩa	45	trung bình
+Đặng Khôi Nghĩa	45	trung bình
+Đặng Khương Nghĩa	45	trung bình
+Đặng Kiện Nghĩa	45	trung bình
+Đặng Lộc Nghĩa	45	trung bình
+Đặng Luận Nghĩa	45	trung bình
+Đặng Nam Nghĩa	45	trung bình
+Đặng Ngạn Nghĩa	45	trung bình
+Đặng Nguyễn Nghĩa	45	trung bình
+Đặng Quang Nghĩa	45	trung bình
+Đặng Quyền Nghĩa	45	trung bình
+Đặng Sáng Nghĩa	45	trung bình
+Đặng Tín Nghĩa	45	trung bình
+Đặng Toàn Nghĩa	45	trung bình
+Đặng Trọng Nghĩa	45	trung bình
+Đặng Trụ Nghĩa	45	trung bình
+Đặng Bá Nghĩa	32,5	tạm được
+Đặng Bạch Nghĩa	32,5	tạm được
+Đặng Bắc Nghĩa	32,5	tạm được
+Đặng Bằng Nghĩa	32,5	tạm được
+Đặng Bình Nghĩa	32,5	tạm được
+Đặng Ca Nghĩa	32,5	tạm được
+Đặng Cận Nghĩa	32,5	tạm được
+Đặng Chính Nghĩa	32,5	tạm được
+Đặng Chỉ Nghĩa	32,5	tạm được
+Đặng Cương Nghĩa	32,5	tạm được
+Đặng Dân Nghĩa	32,5	tạm được
+Đặng Di Nghĩa	32,5	tạm được
+Đặng Đan Nghĩa	32,5	tạm được
+Đặng Điền Nghĩa	32,5	tạm được
+Đặng Đông Nghĩa	32,5	tạm được
+Đặng Gia Nghĩa	32,5	tạm được
+Đặng Giáp Nghĩa	32,5	tạm được
+Đặng Hòa Nghĩa	32,5	tạm được
+Đặng Hữu Nghĩa	32,5	tạm được
+Đặng Hào Nghĩa	32,5	tạm được
+Đặng Hiệp Nghĩa	32,5	tạm được
+Đặng Hồng Nghĩa	32,5	tạm được
+Đặng Huấn Nghĩa	32,5	tạm được
+Đặng Kỳ Nghĩa	32,5	tạm được
+Đặng Kiến Nghĩa	32,5	tạm được
+Đặng Kim Nghĩa	32,5	tạm được
+Đặng Lễ Nghĩa	32,5	tạm được
+Đặng Lập Nghĩa	32,5	tạm được
+Đặng Long Nghĩa	32,5	tạm được
+Đặng Lư Nghĩa	32,5	tạm được
+Đặng Ngọc Nghĩa	32,5	tạm được
+Đặng Nghiệp Nghĩa	32,5	tạm được
+Đặng Nguyên Nghĩa	32,5	tạm được
+Đặng Nhật Nghĩa	32,5	tạm được
+Đặng Ninh Nghĩa	32,5	tạm được
+Đặng Phong Nghĩa	32,5	tạm được
+Đặng Sang Nghĩa	32,5	tạm được
+Đặng Sinh Nghĩa	32,5	tạm được
+Đặng Thạch Nghĩa	32,5	tạm được
+Đặng Thế Nghĩa	32,5	tạm được
+Đặng Thông Nghĩa	32,5	tạm được
+Đặng Thư Nghĩa	32,5	tạm được
+Đặng Triệu Nghĩa	32,5	tạm được
+Đặng Trung Nghĩa	32,5	tạm được
+Đặng Trường Nghĩa	32,5	tạm được
+Đặng Tùng Nghĩa	32,5	tạm được
+Đặng Tường Nghĩa	32,5	tạm được
+Đặng Vũ Nghĩa	32,5	tạm được
+Đặng Vĩnh Nghĩa	32,5	tạm được
+Đặng Viết Nghĩa	32,5	tạm được
+Đặng Vương Nghĩa	32,5	tạm được
+Đặng Vượng Nghĩa	32,5	tạm được

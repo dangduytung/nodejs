@@ -1,0 +1,185 @@
+Đặng Bửu Triết	77,5	tốt
+Đặng Hoà Triết	77,5	tốt
+Đặng Phước Triết	77,5	tốt
+Đặng Sỹ Triết	77,5	tốt
+Đặng Vỹ Triết	77,5	tốt
+Đặng An Triết	75	tốt
+Đặng Bách Triết	75	tốt
+Đặng Cấn Triết	75	tốt
+Đặng Châu Triết	75	tốt
+Đặng Chí Triết	75	tốt
+Đặng Danh Triết	75	tốt
+Đặng Duệ Triết	75	tốt
+Đặng Dương Triết	75	tốt
+Đặng Đạo Triết	75	tốt
+Đặng Đăng Triết	75	tốt
+Đặng Đình Triết	75	tốt
+Đặng Đoàn Triết	75	tốt
+Đặng Giang Triết	75	tốt
+Đặng Hảo Triết	75	tốt
+Đặng Hậu Triết	75	tốt
+Đặng Hoan Triết	75	tốt
+Đặng Huy Triết	75	tốt
+Đặng Hưng Triết	75	tốt
+Đặng Khanh Triết	75	tốt
+Đặng Khánh Triết	75	tốt
+Đặng Khải Triết	75	tốt
+Đặng Khôi Triết	75	tốt
+Đặng Khương Triết	75	tốt
+Đặng Kiện Triết	75	tốt
+Đặng Lộc Triết	75	tốt
+Đặng Luận Triết	75	tốt
+Đặng Nam Triết	75	tốt
+Đặng Ngạn Triết	75	tốt
+Đặng Nguyễn Triết	75	tốt
+Đặng Quang Triết	75	tốt
+Đặng Quyền Triết	75	tốt
+Đặng Sáng Triết	75	tốt
+Đặng Tín Triết	75	tốt
+Đặng Toàn Triết	75	tốt
+Đặng Trọng Triết	75	tốt
+Đặng Trụ Triết	75	tốt
+Đặng Ân Triết	72,5	tốt
+Đặng Chấn Triết	72,5	tốt
+Đặng Hải Triết	72,5	tốt
+Đặng Toản Triết	72,5	tốt
+Đặng Việt Triết	72,5	tốt
+Đặng Vinh Triết	72,5	tốt
+Đặng Anh Triết	65	tốt
+Đặng Cao Triết	65	tốt
+Đặng Cần Triết	65	tốt
+Đặng Định Triết	65	tốt
+Đặng Đôn Triết	65	tốt
+Đặng Hiền Triết	65	tốt
+Đặng Huỳnh Triết	65	tốt
+Đặng Khang Triết	65	tốt
+Đặng Kiệt Triết	65	tốt
+Đặng Lĩnh Triết	65	tốt
+Đặng Lâm Triết	65	tốt
+Đặng Mạnh Triết	65	tốt
+Đặng Minh Triết	65	tốt
+Đặng Quý Triết	65	tốt
+Đặng Quốc Triết	65	tốt
+Đặng Thiện Triết	65	tốt
+Đặng Tiến Triết	65	tốt
+Đặng Tính Triết	65	tốt
+Đặng Trí Triết	65	tốt
+Đặng Uy Triết	65	tốt
+Đặng Võ Triết	65	tốt
+Đặng Xuân Triết	65	tốt
+Đặng Ánh Triết	62,5	tốt
+Đặng Cẩn Triết	62,5	tốt
+Đặng Chiến Triết	62,5	tốt
+Đặng Công Triết	62,5	tốt
+Đặng Doanh Triết	62,5	tốt
+Đặng Đại Triết	62,5	tốt
+Đặng Hiển Triết	62,5	tốt
+Đặng Hoàn Triết	62,5	tốt
+Đặng Hoàng Triết	62,5	tốt
+Đặng Hoạt Triết	62,5	tốt
+Đặng Huân Triết	62,5	tốt
+Đặng Luật Triết	62,5	tốt
+Đặng Mỹ Triết	62,5	tốt
+Đặng Nghĩa Triết	62,5	tốt
+Đặng Nhân Triết	62,5	tốt
+Đặng Phi Triết	62,5	tốt
+Đặng Phú Triết	62,5	tốt
+Đặng Phúc Triết	62,5	tốt
+Đặng Phương Triết	62,5	tốt
+Đặng Quỳnh Triết	62,5	tốt
+Đặng Quảng Triết	62,5	tốt
+Đặng Sam Triết	62,5	tốt
+Đặng Sơn Triết	62,5	tốt
+Đặng Thái Triết	62,5	tốt
+Đặng Thắng Triết	62,5	tốt
+Đặng Thiên Triết	62,5	tốt
+Đặng Thuận Triết	62,5	tốt
+Đặng Thuyết Triết	62,5	tốt
+Đặng Thường Triết	62,5	tốt
+Đặng Trịnh Triết	62,5	tốt
+Đặng Tuấn Triết	62,5	tốt
+Đặng Tưởng Triết	62,5	tốt
+Đặng Cường Triết	60	tốt
+Đặng Đắc Triết	60	tốt
+Đặng Điệp Triết	60	tốt
+Đặng Lê Triết	60	tốt
+Đặng Thạc Triết	60	tốt
+Đặng Thịnh Triết	60	tốt
+Đặng Tuệ Triết	60	tốt
+Đặng Thụy Triết	57,5	trung bình
+Đặng Đức Triết	50	trung bình
+Đặng Hùng Triết	50	trung bình
+Đặng Bá Triết	37,5	tạm được
+Đặng Bảo Triết	37,5	tạm được
+Đặng Bạch Triết	37,5	tạm được
+Đặng Bắc Triết	37,5	tạm được
+Đặng Bằng Triết	37,5	tạm được
+Đặng Bình Triết	37,5	tạm được
+Đặng Ca Triết	37,5	tạm được
+Đặng Cận Triết	37,5	tạm được
+Đặng Chính Triết	37,5	tạm được
+Đặng Chỉ Triết	37,5	tạm được
+Đặng Cương Triết	37,5	tạm được
+Đặng Dũng Triết	37,5	tạm được
+Đặng Dân Triết	37,5	tạm được
+Đặng Di Triết	37,5	tạm được
+Đặng Diệu Triết	37,5	tạm được
+Đặng Du Triết	37,5	tạm được
+Đặng Duy Triết	37,5	tạm được
+Đặng Đan Triết	37,5	tạm được
+Đặng Đạt Triết	37,5	tạm được
+Đặng Điền Triết	37,5	tạm được
+Đặng Đông Triết	37,5	tạm được
+Đặng Gia Triết	37,5	tạm được
+Đặng Giáp Triết	37,5	tạm được
+Đặng Hòa Triết	37,5	tạm được
+Đặng Hữu Triết	37,5	tạm được
+Đặng Hà Triết	37,5	tạm được
+Đặng Hào Triết	37,5	tạm được
+Đặng Hiệp Triết	37,5	tạm được
+Đặng Hoài Triết	37,5	tạm được
+Đặng Hồng Triết	37,5	tạm được
+Đặng Huấn Triết	37,5	tạm được
+Đặng Hưởng Triết	37,5	tạm được
+Đặng Kỳ Triết	37,5	tạm được
+Đặng Kiên Triết	37,5	tạm được
+Đặng Kiến Triết	37,5	tạm được
+Đặng Kim Triết	37,5	tạm được
+Đặng Lễ Triết	37,5	tạm được
+Đặng Lý Triết	37,5	tạm được
+Đặng Lập Triết	37,5	tạm được
+Đặng Liêm Triết	37,5	tạm được
+Đặng Long Triết	37,5	tạm được
+Đặng Lợi Triết	37,5	tạm được
+Đặng Lư Triết	37,5	tạm được
+Đặng Lương Triết	37,5	tạm được
+Đặng Ngọc Triết	37,5	tạm được
+Đặng Nghiệp Triết	37,5	tạm được
+Đặng Ngôn Triết	37,5	tạm được
+Đặng Nguyên Triết	37,5	tạm được
+Đặng Nhật Triết	37,5	tạm được
+Đặng Ninh Triết	37,5	tạm được
+Đặng Phong Triết	37,5	tạm được
+Đặng Sang Triết	37,5	tạm được
+Đặng Sinh Triết	37,5	tạm được
+Đặng Thọ Triết	37,5	tạm được
+Đặng Thanh Triết	37,5	tạm được
+Đặng Thành Triết	37,5	tạm được
+Đặng Thạch Triết	37,5	tạm được
+Đặng Thế Triết	37,5	tạm được
+Đặng Thông Triết	37,5	tạm được
+Đặng Thư Triết	37,5	tạm được
+Đặng Triệu Triết	37,5	tạm được
+Đặng Trình Triết	37,5	tạm được
+Đặng Trung Triết	37,5	tạm được
+Đặng Trương Triết	37,5	tạm được
+Đặng Trường Triết	37,5	tạm được
+Đặng Tú Triết	37,5	tạm được
+Đặng Tùng Triết	37,5	tạm được
+Đặng Tường Triết	37,5	tạm được
+Đặng Vũ Triết	37,5	tạm được
+Đặng Vĩnh Triết	37,5	tạm được
+Đặng Văn Triết	37,5	tạm được
+Đặng Viết Triết	37,5	tạm được
+Đặng Vương Triết	37,5	tạm được
+Đặng Vượng Triết	37,5	tạm được

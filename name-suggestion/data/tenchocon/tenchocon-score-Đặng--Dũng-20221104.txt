@@ -1,0 +1,185 @@
+Đặng Cường Dũng	82,5	cực tốt
+Đặng Đắc Dũng	82,5	cực tốt
+Đặng Điệp Dũng	82,5	cực tốt
+Đặng Lê Dũng	82,5	cực tốt
+Đặng Thạc Dũng	82,5	cực tốt
+Đặng Thịnh Dũng	82,5	cực tốt
+Đặng Tuệ Dũng	82,5	cực tốt
+Đặng Bửu Dũng	75	tốt
+Đặng Hoà Dũng	75	tốt
+Đặng Phước Dũng	75	tốt
+Đặng Sỹ Dũng	75	tốt
+Đặng Vỹ Dũng	75	tốt
+Đặng Ánh Dũng	72,5	tốt
+Đặng Chiến Dũng	72,5	tốt
+Đặng Doanh Dũng	72,5	tốt
+Đặng Hiển Dũng	72,5	tốt
+Đặng Hoàng Dũng	72,5	tốt
+Đặng Hoạt Dũng	72,5	tốt
+Đặng Huân Dũng	72,5	tốt
+Đặng Luật Dũng	72,5	tốt
+Đặng Mỹ Dũng	72,5	tốt
+Đặng Phú Dũng	72,5	tốt
+Đặng Phúc Dũng	72,5	tốt
+Đặng Quỳnh Dũng	72,5	tốt
+Đặng Thắng Dũng	72,5	tốt
+Đặng Thuận Dũng	72,5	tốt
+Đặng Thuyết Dũng	72,5	tốt
+Đặng Thường Dũng	72,5	tốt
+Đặng Trịnh Dũng	72,5	tốt
+Đặng Tuấn Dũng	72,5	tốt
+Đặng Tưởng Dũng	72,5	tốt
+Đặng Ân Dũng	70	tốt
+Đặng Chấn Dũng	70	tốt
+Đặng Hải Dũng	70	tốt
+Đặng Toản Dũng	70	tốt
+Đặng Triết Dũng	70	tốt
+Đặng Việt Dũng	70	tốt
+Đặng Vinh Dũng	70	tốt
+Đặng Đức Dũng	62,5	tốt
+Đặng Hùng Dũng	62,5	tốt
+Đặng An Dũng	57,5	trung bình
+Đặng Anh Dũng	57,5	trung bình
+Đặng Bách Dũng	57,5	trung bình
+Đặng Cao Dũng	57,5	trung bình
+Đặng Cấn Dũng	57,5	trung bình
+Đặng Cần Dũng	57,5	trung bình
+Đặng Cẩn Dũng	57,5	trung bình
+Đặng Châu Dũng	57,5	trung bình
+Đặng Chí Dũng	57,5	trung bình
+Đặng Công Dũng	57,5	trung bình
+Đặng Danh Dũng	57,5	trung bình
+Đặng Duệ Dũng	57,5	trung bình
+Đặng Dương Dũng	57,5	trung bình
+Đặng Đại Dũng	57,5	trung bình
+Đặng Đạo Dũng	57,5	trung bình
+Đặng Đăng Dũng	57,5	trung bình
+Đặng Đình Dũng	57,5	trung bình
+Đặng Định Dũng	57,5	trung bình
+Đặng Đoàn Dũng	57,5	trung bình
+Đặng Đôn Dũng	57,5	trung bình
+Đặng Giang Dũng	57,5	trung bình
+Đặng Hảo Dũng	57,5	trung bình
+Đặng Hậu Dũng	57,5	trung bình
+Đặng Hiền Dũng	57,5	trung bình
+Đặng Hoan Dũng	57,5	trung bình
+Đặng Hoàn Dũng	57,5	trung bình
+Đặng Huỳnh Dũng	57,5	trung bình
+Đặng Huy Dũng	57,5	trung bình
+Đặng Hưng Dũng	57,5	trung bình
+Đặng Khang Dũng	57,5	trung bình
+Đặng Khanh Dũng	57,5	trung bình
+Đặng Khánh Dũng	57,5	trung bình
+Đặng Khải Dũng	57,5	trung bình
+Đặng Khôi Dũng	57,5	trung bình
+Đặng Khương Dũng	57,5	trung bình
+Đặng Kiện Dũng	57,5	trung bình
+Đặng Kiệt Dũng	57,5	trung bình
+Đặng Lĩnh Dũng	57,5	trung bình
+Đặng Lâm Dũng	57,5	trung bình
+Đặng Lộc Dũng	57,5	trung bình
+Đặng Luận Dũng	57,5	trung bình
+Đặng Mạnh Dũng	57,5	trung bình
+Đặng Minh Dũng	57,5	trung bình
+Đặng Nam Dũng	57,5	trung bình
+Đặng Ngạn Dũng	57,5	trung bình
+Đặng Nghĩa Dũng	57,5	trung bình
+Đặng Nguyễn Dũng	57,5	trung bình
+Đặng Phi Dũng	57,5	trung bình
+Đặng Quý Dũng	57,5	trung bình
+Đặng Quang Dũng	57,5	trung bình
+Đặng Quảng Dũng	57,5	trung bình
+Đặng Quốc Dũng	57,5	trung bình
+Đặng Quyền Dũng	57,5	trung bình
+Đặng Sam Dũng	57,5	trung bình
+Đặng Sáng Dũng	57,5	trung bình
+Đặng Sơn Dũng	57,5	trung bình
+Đặng Thái Dũng	57,5	trung bình
+Đặng Thiên Dũng	57,5	trung bình
+Đặng Thiện Dũng	57,5	trung bình
+Đặng Tiến Dũng	57,5	trung bình
+Đặng Tín Dũng	57,5	trung bình
+Đặng Tính Dũng	57,5	trung bình
+Đặng Toàn Dũng	57,5	trung bình
+Đặng Trọng Dũng	57,5	trung bình
+Đặng Trí Dũng	57,5	trung bình
+Đặng Trụ Dũng	57,5	trung bình
+Đặng Uy Dũng	57,5	trung bình
+Đặng Võ Dũng	57,5	trung bình
+Đặng Xuân Dũng	57,5	trung bình
+Đặng Thụy Dũng	55	trung bình
+Đặng Cận Dũng	50	trung bình
+Đặng Chỉ Dũng	50	trung bình
+Đặng Cương Dũng	50	trung bình
+Đặng Đan Dũng	50	trung bình
+Đặng Hữu Dũng	50	trung bình
+Đặng Hào Dũng	50	trung bình
+Đặng Kiến Dũng	50	trung bình
+Đặng Kim Dũng	50	trung bình
+Đặng Nguyên Dũng	50	trung bình
+Đặng Nhật Dũng	50	trung bình
+Đặng Phong Dũng	50	trung bình
+Đặng Sang Dũng	50	trung bình
+Đặng Thế Dũng	50	trung bình
+Đặng Thư Dũng	50	trung bình
+Đặng Trung Dũng	50	trung bình
+Đặng Tùng Dũng	50	trung bình
+Đặng Tường Dũng	50	trung bình
+Đặng Viết Dũng	50	trung bình
+Đặng Vương Dũng	50	trung bình
+Đặng Vượng Dũng	50	trung bình
+Đặng Nhân Dũng	47,5	trung bình
+Đặng Phương Dũng	47,5	trung bình
+Đặng Bá Dũng	40	trung bình
+Đặng Bạch Dũng	40	trung bình
+Đặng Bắc Dũng	40	trung bình
+Đặng Bằng Dũng	40	trung bình
+Đặng Bình Dũng	40	trung bình
+Đặng Ca Dũng	40	trung bình
+Đặng Chính Dũng	40	trung bình
+Đặng Dân Dũng	40	trung bình
+Đặng Di Dũng	40	trung bình
+Đặng Điền Dũng	40	trung bình
+Đặng Đông Dũng	40	trung bình
+Đặng Gia Dũng	40	trung bình
+Đặng Giáp Dũng	40	trung bình
+Đặng Hòa Dũng	40	trung bình
+Đặng Hiệp Dũng	40	trung bình
+Đặng Hồng Dũng	40	trung bình
+Đặng Huấn Dũng	40	trung bình
+Đặng Kỳ Dũng	40	trung bình
+Đặng Lễ Dũng	40	trung bình
+Đặng Lập Dũng	40	trung bình
+Đặng Long Dũng	40	trung bình
+Đặng Lư Dũng	40	trung bình
+Đặng Ngọc Dũng	40	trung bình
+Đặng Nghiệp Dũng	40	trung bình
+Đặng Ninh Dũng	40	trung bình
+Đặng Sinh Dũng	40	trung bình
+Đặng Thạch Dũng	40	trung bình
+Đặng Thông Dũng	40	trung bình
+Đặng Triệu Dũng	40	trung bình
+Đặng Trường Dũng	40	trung bình
+Đặng Vũ Dũng	40	trung bình
+Đặng Vĩnh Dũng	40	trung bình
+Đặng Bảo Dũng	37,5	tạm được
+Đặng Diệu Dũng	37,5	tạm được
+Đặng Du Dũng	37,5	tạm được
+Đặng Duy Dũng	37,5	tạm được
+Đặng Đạt Dũng	37,5	tạm được
+Đặng Hà Dũng	37,5	tạm được
+Đặng Hoài Dũng	37,5	tạm được
+Đặng Hưởng Dũng	37,5	tạm được
+Đặng Kiên Dũng	37,5	tạm được
+Đặng Lý Dũng	37,5	tạm được
+Đặng Liêm Dũng	37,5	tạm được
+Đặng Lợi Dũng	37,5	tạm được
+Đặng Lương Dũng	37,5	tạm được
+Đặng Ngôn Dũng	37,5	tạm được
+Đặng Thọ Dũng	37,5	tạm được
+Đặng Thanh Dũng	37,5	tạm được
+Đặng Thành Dũng	37,5	tạm được
+Đặng Trình Dũng	37,5	tạm được
+Đặng Trương Dũng	37,5	tạm được
+Đặng Tú Dũng	37,5	tạm được
+Đặng Văn Dũng	37,5	tạm được

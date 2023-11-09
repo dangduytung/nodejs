@@ -1,0 +1,185 @@
+Đặng Bửu Hải	77,5	tốt
+Đặng Hoà Hải	77,5	tốt
+Đặng Phước Hải	77,5	tốt
+Đặng Sỹ Hải	77,5	tốt
+Đặng Vỹ Hải	77,5	tốt
+Đặng An Hải	75	tốt
+Đặng Bách Hải	75	tốt
+Đặng Cấn Hải	75	tốt
+Đặng Châu Hải	75	tốt
+Đặng Chí Hải	75	tốt
+Đặng Danh Hải	75	tốt
+Đặng Duệ Hải	75	tốt
+Đặng Dương Hải	75	tốt
+Đặng Đạo Hải	75	tốt
+Đặng Đăng Hải	75	tốt
+Đặng Đình Hải	75	tốt
+Đặng Đoàn Hải	75	tốt
+Đặng Giang Hải	75	tốt
+Đặng Hảo Hải	75	tốt
+Đặng Hậu Hải	75	tốt
+Đặng Hoan Hải	75	tốt
+Đặng Huy Hải	75	tốt
+Đặng Hưng Hải	75	tốt
+Đặng Khanh Hải	75	tốt
+Đặng Khánh Hải	75	tốt
+Đặng Khải Hải	75	tốt
+Đặng Khôi Hải	75	tốt
+Đặng Khương Hải	75	tốt
+Đặng Kiện Hải	75	tốt
+Đặng Lộc Hải	75	tốt
+Đặng Luận Hải	75	tốt
+Đặng Nam Hải	75	tốt
+Đặng Ngạn Hải	75	tốt
+Đặng Nguyễn Hải	75	tốt
+Đặng Quang Hải	75	tốt
+Đặng Quyền Hải	75	tốt
+Đặng Sáng Hải	75	tốt
+Đặng Tín Hải	75	tốt
+Đặng Toàn Hải	75	tốt
+Đặng Trọng Hải	75	tốt
+Đặng Trụ Hải	75	tốt
+Đặng Ân Hải	72,5	tốt
+Đặng Chấn Hải	72,5	tốt
+Đặng Toản Hải	72,5	tốt
+Đặng Triết Hải	72,5	tốt
+Đặng Việt Hải	72,5	tốt
+Đặng Vinh Hải	72,5	tốt
+Đặng Anh Hải	65	tốt
+Đặng Cao Hải	65	tốt
+Đặng Cần Hải	65	tốt
+Đặng Định Hải	65	tốt
+Đặng Đôn Hải	65	tốt
+Đặng Hiền Hải	65	tốt
+Đặng Huỳnh Hải	65	tốt
+Đặng Khang Hải	65	tốt
+Đặng Kiệt Hải	65	tốt
+Đặng Lĩnh Hải	65	tốt
+Đặng Lâm Hải	65	tốt
+Đặng Mạnh Hải	65	tốt
+Đặng Minh Hải	65	tốt
+Đặng Quý Hải	65	tốt
+Đặng Quốc Hải	65	tốt
+Đặng Thiện Hải	65	tốt
+Đặng Tiến Hải	65	tốt
+Đặng Tính Hải	65	tốt
+Đặng Trí Hải	65	tốt
+Đặng Uy Hải	65	tốt
+Đặng Võ Hải	65	tốt
+Đặng Xuân Hải	65	tốt
+Đặng Ánh Hải	62,5	tốt
+Đặng Cẩn Hải	62,5	tốt
+Đặng Chiến Hải	62,5	tốt
+Đặng Công Hải	62,5	tốt
+Đặng Doanh Hải	62,5	tốt
+Đặng Đại Hải	62,5	tốt
+Đặng Hiển Hải	62,5	tốt
+Đặng Hoàn Hải	62,5	tốt
+Đặng Hoàng Hải	62,5	tốt
+Đặng Hoạt Hải	62,5	tốt
+Đặng Huân Hải	62,5	tốt
+Đặng Luật Hải	62,5	tốt
+Đặng Mỹ Hải	62,5	tốt
+Đặng Nghĩa Hải	62,5	tốt
+Đặng Nhân Hải	62,5	tốt
+Đặng Phi Hải	62,5	tốt
+Đặng Phú Hải	62,5	tốt
+Đặng Phúc Hải	62,5	tốt
+Đặng Phương Hải	62,5	tốt
+Đặng Quỳnh Hải	62,5	tốt
+Đặng Quảng Hải	62,5	tốt
+Đặng Sam Hải	62,5	tốt
+Đặng Sơn Hải	62,5	tốt
+Đặng Thái Hải	62,5	tốt
+Đặng Thắng Hải	62,5	tốt
+Đặng Thiên Hải	62,5	tốt
+Đặng Thuận Hải	62,5	tốt
+Đặng Thuyết Hải	62,5	tốt
+Đặng Thường Hải	62,5	tốt
+Đặng Trịnh Hải	62,5	tốt
+Đặng Tuấn Hải	62,5	tốt
+Đặng Tưởng Hải	62,5	tốt
+Đặng Cường Hải	60	tốt
+Đặng Đắc Hải	60	tốt
+Đặng Điệp Hải	60	tốt
+Đặng Lê Hải	60	tốt
+Đặng Thạc Hải	60	tốt
+Đặng Thịnh Hải	60	tốt
+Đặng Tuệ Hải	60	tốt
+Đặng Thụy Hải	57,5	trung bình
+Đặng Đức Hải	50	trung bình
+Đặng Hùng Hải	50	trung bình
+Đặng Bá Hải	37,5	tạm được
+Đặng Bảo Hải	37,5	tạm được
+Đặng Bạch Hải	37,5	tạm được
+Đặng Bắc Hải	37,5	tạm được
+Đặng Bằng Hải	37,5	tạm được
+Đặng Bình Hải	37,5	tạm được
+Đặng Ca Hải	37,5	tạm được
+Đặng Cận Hải	37,5	tạm được
+Đặng Chính Hải	37,5	tạm được
+Đặng Chỉ Hải	37,5	tạm được
+Đặng Cương Hải	37,5	tạm được
+Đặng Dũng Hải	37,5	tạm được
+Đặng Dân Hải	37,5	tạm được
+Đặng Di Hải	37,5	tạm được
+Đặng Diệu Hải	37,5	tạm được
+Đặng Du Hải	37,5	tạm được
+Đặng Duy Hải	37,5	tạm được
+Đặng Đan Hải	37,5	tạm được
+Đặng Đạt Hải	37,5	tạm được
+Đặng Điền Hải	37,5	tạm được
+Đặng Đông Hải	37,5	tạm được
+Đặng Gia Hải	37,5	tạm được
+Đặng Giáp Hải	37,5	tạm được
+Đặng Hòa Hải	37,5	tạm được
+Đặng Hữu Hải	37,5	tạm được
+Đặng Hà Hải	37,5	tạm được
+Đặng Hào Hải	37,5	tạm được
+Đặng Hiệp Hải	37,5	tạm được
+Đặng Hoài Hải	37,5	tạm được
+Đặng Hồng Hải	37,5	tạm được
+Đặng Huấn Hải	37,5	tạm được
+Đặng Hưởng Hải	37,5	tạm được
+Đặng Kỳ Hải	37,5	tạm được
+Đặng Kiên Hải	37,5	tạm được
+Đặng Kiến Hải	37,5	tạm được
+Đặng Kim Hải	37,5	tạm được
+Đặng Lễ Hải	37,5	tạm được
+Đặng Lý Hải	37,5	tạm được
+Đặng Lập Hải	37,5	tạm được
+Đặng Liêm Hải	37,5	tạm được
+Đặng Long Hải	37,5	tạm được
+Đặng Lợi Hải	37,5	tạm được
+Đặng Lư Hải	37,5	tạm được
+Đặng Lương Hải	37,5	tạm được
+Đặng Ngọc Hải	37,5	tạm được
+Đặng Nghiệp Hải	37,5	tạm được
+Đặng Ngôn Hải	37,5	tạm được
+Đặng Nguyên Hải	37,5	tạm được
+Đặng Nhật Hải	37,5	tạm được
+Đặng Ninh Hải	37,5	tạm được
+Đặng Phong Hải	37,5	tạm được
+Đặng Sang Hải	37,5	tạm được
+Đặng Sinh Hải	37,5	tạm được
+Đặng Thọ Hải	37,5	tạm được
+Đặng Thanh Hải	37,5	tạm được
+Đặng Thành Hải	37,5	tạm được
+Đặng Thạch Hải	37,5	tạm được
+Đặng Thế Hải	37,5	tạm được
+Đặng Thông Hải	37,5	tạm được
+Đặng Thư Hải	37,5	tạm được
+Đặng Triệu Hải	37,5	tạm được
+Đặng Trình Hải	37,5	tạm được
+Đặng Trung Hải	37,5	tạm được
+Đặng Trương Hải	37,5	tạm được
+Đặng Trường Hải	37,5	tạm được
+Đặng Tú Hải	37,5	tạm được
+Đặng Tùng Hải	37,5	tạm được
+Đặng Tường Hải	37,5	tạm được
+Đặng Vũ Hải	37,5	tạm được
+Đặng Vĩnh Hải	37,5	tạm được
+Đặng Văn Hải	37,5	tạm được
+Đặng Viết Hải	37,5	tạm được
+Đặng Vương Hải	37,5	tạm được
+Đặng Vượng Hải	37,5	tạm được

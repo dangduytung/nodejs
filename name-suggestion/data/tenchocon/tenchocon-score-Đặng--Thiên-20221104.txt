@@ -1,0 +1,185 @@
+Đặng Ân Thiên	77,5	tốt
+Đặng Bửu Thiên	77,5	tốt
+Đặng Chấn Thiên	77,5	tốt
+Đặng Hải Thiên	77,5	tốt
+Đặng Hoà Thiên	77,5	tốt
+Đặng Phước Thiên	77,5	tốt
+Đặng Sỹ Thiên	77,5	tốt
+Đặng Toản Thiên	77,5	tốt
+Đặng Triết Thiên	77,5	tốt
+Đặng Vỹ Thiên	77,5	tốt
+Đặng Việt Thiên	77,5	tốt
+Đặng Vinh Thiên	77,5	tốt
+Đặng Thụy Thiên	72,5	tốt
+Đặng Cẩn Thiên	70	tốt
+Đặng Công Thiên	70	tốt
+Đặng Đại Thiên	70	tốt
+Đặng Hoàn Thiên	70	tốt
+Đặng Nghĩa Thiên	70	tốt
+Đặng Phi Thiên	70	tốt
+Đặng Quảng Thiên	70	tốt
+Đặng Sam Thiên	70	tốt
+Đặng Sơn Thiên	70	tốt
+Đặng Thái Thiên	70	tốt
+Đặng Anh Thiên	67,5	tốt
+Đặng Cao Thiên	67,5	tốt
+Đặng Cần Thiên	67,5	tốt
+Đặng Định Thiên	67,5	tốt
+Đặng Đôn Thiên	67,5	tốt
+Đặng Hiền Thiên	67,5	tốt
+Đặng Huỳnh Thiên	67,5	tốt
+Đặng Khang Thiên	67,5	tốt
+Đặng Kiệt Thiên	67,5	tốt
+Đặng Lĩnh Thiên	67,5	tốt
+Đặng Lâm Thiên	67,5	tốt
+Đặng Mạnh Thiên	67,5	tốt
+Đặng Minh Thiên	67,5	tốt
+Đặng Quý Thiên	67,5	tốt
+Đặng Quốc Thiên	67,5	tốt
+Đặng Thiện Thiên	67,5	tốt
+Đặng Tiến Thiên	67,5	tốt
+Đặng Tính Thiên	67,5	tốt
+Đặng Trí Thiên	67,5	tốt
+Đặng Uy Thiên	67,5	tốt
+Đặng Võ Thiên	67,5	tốt
+Đặng Xuân Thiên	67,5	tốt
+Đặng Cường Thiên	62,5	tốt
+Đặng Đắc Thiên	62,5	tốt
+Đặng Điệp Thiên	62,5	tốt
+Đặng Lê Thiên	62,5	tốt
+Đặng Thạc Thiên	62,5	tốt
+Đặng Thịnh Thiên	62,5	tốt
+Đặng Tuệ Thiên	62,5	tốt
+Đặng Ánh Thiên	57,5	trung bình
+Đặng Chiến Thiên	57,5	trung bình
+Đặng Doanh Thiên	57,5	trung bình
+Đặng Hiển Thiên	57,5	trung bình
+Đặng Hoàng Thiên	57,5	trung bình
+Đặng Hoạt Thiên	57,5	trung bình
+Đặng Huân Thiên	57,5	trung bình
+Đặng Luật Thiên	57,5	trung bình
+Đặng Mỹ Thiên	57,5	trung bình
+Đặng Phú Thiên	57,5	trung bình
+Đặng Phúc Thiên	57,5	trung bình
+Đặng Quỳnh Thiên	57,5	trung bình
+Đặng Thắng Thiên	57,5	trung bình
+Đặng Thuận Thiên	57,5	trung bình
+Đặng Thuyết Thiên	57,5	trung bình
+Đặng Thường Thiên	57,5	trung bình
+Đặng Trịnh Thiên	57,5	trung bình
+Đặng Tuấn Thiên	57,5	trung bình
+Đặng Tưởng Thiên	57,5	trung bình
+Đặng Đức Thiên	55	trung bình
+Đặng Hùng Thiên	55	trung bình
+Đặng Nhân Thiên	55	trung bình
+Đặng Phương Thiên	55	trung bình
+Đặng Bảo Thiên	50	trung bình
+Đặng Dũng Thiên	50	trung bình
+Đặng Diệu Thiên	50	trung bình
+Đặng Du Thiên	50	trung bình
+Đặng Duy Thiên	50	trung bình
+Đặng Đạt Thiên	50	trung bình
+Đặng Hà Thiên	50	trung bình
+Đặng Hoài Thiên	50	trung bình
+Đặng Hưởng Thiên	50	trung bình
+Đặng Kiên Thiên	50	trung bình
+Đặng Lý Thiên	50	trung bình
+Đặng Liêm Thiên	50	trung bình
+Đặng Lợi Thiên	50	trung bình
+Đặng Lương Thiên	50	trung bình
+Đặng Ngôn Thiên	50	trung bình
+Đặng Thọ Thiên	50	trung bình
+Đặng Thanh Thiên	50	trung bình
+Đặng Thành Thiên	50	trung bình
+Đặng Trình Thiên	50	trung bình
+Đặng Trương Thiên	50	trung bình
+Đặng Tú Thiên	50	trung bình
+Đặng Văn Thiên	50	trung bình
+Đặng An Thiên	45	trung bình
+Đặng Bách Thiên	45	trung bình
+Đặng Cấn Thiên	45	trung bình
+Đặng Châu Thiên	45	trung bình
+Đặng Chí Thiên	45	trung bình
+Đặng Danh Thiên	45	trung bình
+Đặng Duệ Thiên	45	trung bình
+Đặng Dương Thiên	45	trung bình
+Đặng Đạo Thiên	45	trung bình
+Đặng Đăng Thiên	45	trung bình
+Đặng Đình Thiên	45	trung bình
+Đặng Đoàn Thiên	45	trung bình
+Đặng Giang Thiên	45	trung bình
+Đặng Hảo Thiên	45	trung bình
+Đặng Hậu Thiên	45	trung bình
+Đặng Hoan Thiên	45	trung bình
+Đặng Huy Thiên	45	trung bình
+Đặng Hưng Thiên	45	trung bình
+Đặng Khanh Thiên	45	trung bình
+Đặng Khánh Thiên	45	trung bình
+Đặng Khải Thiên	45	trung bình
+Đặng Khôi Thiên	45	trung bình
+Đặng Khương Thiên	45	trung bình
+Đặng Kiện Thiên	45	trung bình
+Đặng Lộc Thiên	45	trung bình
+Đặng Luận Thiên	45	trung bình
+Đặng Nam Thiên	45	trung bình
+Đặng Ngạn Thiên	45	trung bình
+Đặng Nguyễn Thiên	45	trung bình
+Đặng Quang Thiên	45	trung bình
+Đặng Quyền Thiên	45	trung bình
+Đặng Sáng Thiên	45	trung bình
+Đặng Tín Thiên	45	trung bình
+Đặng Toàn Thiên	45	trung bình
+Đặng Trọng Thiên	45	trung bình
+Đặng Trụ Thiên	45	trung bình
+Đặng Bá Thiên	32,5	tạm được
+Đặng Bạch Thiên	32,5	tạm được
+Đặng Bắc Thiên	32,5	tạm được
+Đặng Bằng Thiên	32,5	tạm được
+Đặng Bình Thiên	32,5	tạm được
+Đặng Ca Thiên	32,5	tạm được
+Đặng Cận Thiên	32,5	tạm được
+Đặng Chính Thiên	32,5	tạm được
+Đặng Chỉ Thiên	32,5	tạm được
+Đặng Cương Thiên	32,5	tạm được
+Đặng Dân Thiên	32,5	tạm được
+Đặng Di Thiên	32,5	tạm được
+Đặng Đan Thiên	32,5	tạm được
+Đặng Điền Thiên	32,5	tạm được
+Đặng Đông Thiên	32,5	tạm được
+Đặng Gia Thiên	32,5	tạm được
+Đặng Giáp Thiên	32,5	tạm được
+Đặng Hòa Thiên	32,5	tạm được
+Đặng Hữu Thiên	32,5	tạm được
+Đặng Hào Thiên	32,5	tạm được
+Đặng Hiệp Thiên	32,5	tạm được
+Đặng Hồng Thiên	32,5	tạm được
+Đặng Huấn Thiên	32,5	tạm được
+Đặng Kỳ Thiên	32,5	tạm được
+Đặng Kiến Thiên	32,5	tạm được
+Đặng Kim Thiên	32,5	tạm được
+Đặng Lễ Thiên	32,5	tạm được
+Đặng Lập Thiên	32,5	tạm được
+Đặng Long Thiên	32,5	tạm được
+Đặng Lư Thiên	32,5	tạm được
+Đặng Ngọc Thiên	32,5	tạm được
+Đặng Nghiệp Thiên	32,5	tạm được
+Đặng Nguyên Thiên	32,5	tạm được
+Đặng Nhật Thiên	32,5	tạm được
+Đặng Ninh Thiên	32,5	tạm được
+Đặng Phong Thiên	32,5	tạm được
+Đặng Sang Thiên	32,5	tạm được
+Đặng Sinh Thiên	32,5	tạm được
+Đặng Thạch Thiên	32,5	tạm được
+Đặng Thế Thiên	32,5	tạm được
+Đặng Thông Thiên	32,5	tạm được
+Đặng Thư Thiên	32,5	tạm được
+Đặng Triệu Thiên	32,5	tạm được
+Đặng Trung Thiên	32,5	tạm được
+Đặng Trường Thiên	32,5	tạm được
+Đặng Tùng Thiên	32,5	tạm được
+Đặng Tường Thiên	32,5	tạm được
+Đặng Vũ Thiên	32,5	tạm được
+Đặng Vĩnh Thiên	32,5	tạm được
+Đặng Viết Thiên	32,5	tạm được
+Đặng Vương Thiên	32,5	tạm được
+Đặng Vượng Thiên	32,5	tạm được
