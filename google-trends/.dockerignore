@@ -1,0 +1,28 @@
+# NodeJs specific files/directories to be ignored in Docker build context
+.git
+node_modules
+npm-debug.log
+yarn-error.log
+out
+coverage
+logs
+log
+dist
+data
+
+# Docker specific files to be ignored
+Dockerfile
+.dockerignore
+.docker
+.dockerignore.dockerfile
+.dockerignore.dockerignore
+
+# Editor specific files/directories to be ignored
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+.kateconfig
+*.kate-swp
