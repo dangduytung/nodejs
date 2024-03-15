@@ -5,13 +5,37 @@ const DateUtils = require("../utils/DateUtils");
 
 const MongoDb = require("../db/MongoDb");
 
+function getOS() {
+    const osPlatform = process.platform;
+
+    if (osPlatform === 'win32') {
+        return 'Windows';
+    } else if (osPlatform === 'linux') {
+        return 'Linux';
+    } else {
+        return 'Unknown';
+    }
+}
+
 async function start(dateCrawl) {
     log.info(`Start crawl google trends daily dateCrawl : ${dateCrawl}`);
 
-    const browser = await puppeteer.launch({
+    const environment = getOS();
+    console.log('Environment:', environment);
+
+    if (environment === 'Unknown') return;
+
+    const launchOptions = {
         headless: 'new',
         args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
+    };
+
+    if (environment === 'Linux') {
+        launchOptions.executablePath = '/usr/bin/google-chrome';
+    }
+
+    const browser = await puppeteer.launch(launchOptions);
+
     const page = await browser.newPage();
 
     // Configure the navigation timeout
