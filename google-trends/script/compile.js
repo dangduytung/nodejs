@@ -3,7 +3,7 @@ var fs = require('fs');
 var path = require("path");
 
 var IGNORE_FOLDERS = ['node_modules', 'data', 'logs', 'script', 'test', '.vscode'];
-var IGNORE_FILES = ['README.md', '.gitignore', '.env'];
+var IGNORE_FILES = ['README.md', '.gitignore', '.env', '.env.sample', 'Dockerfile', '.dockerignore', 'docker-compose.yml'];
 
 fs.exists('./dist', exist => {
     if (exist) {
@@ -79,7 +79,6 @@ function compileFile() {
 
     compileDir('./dist/app/config');
     compileDir('./dist/app/db');
-    compileDir('./dist/app/model');
     compileDir('./dist/app/service');
     compileDir('./dist/app/telegram');
     compileDir('./dist/app/utils');

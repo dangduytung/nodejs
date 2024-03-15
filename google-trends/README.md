@@ -1,5 +1,7 @@
-## Overview
-Crawl google trends daily -> Save on MongoDb -> Notify to telegram channel
+# Overview
+The system retrieves data from Google Trends Daily, saves it on MongoDB, and sends notifications to a Telegram channel.
+
+# Use PM2
 
 ## Installation
 ```js
@@ -7,9 +9,9 @@ npm install pm2 -g
 pm2 ecosystem
 ```
 
-## Config enviroment variables
-Local: config in file `.env`<br/>
-Deployed using PM2: config in `ecosystem.config.js`<br/>
+## Config Enviroment Variables
+* Local: Configure in file `.env`
+* Deployed using PM2: Configure in `ecosystem.config.js`
 ```js
 TELEGRAM_TOKEN=xxx
 TELEGRAM_CHAT_ID=xxx
@@ -49,23 +51,50 @@ npm run-script compile   				# Like command `node script/compile.js` Output is `
 npm run-script compile-ob				# Obfuscation file js into jsc by using `bytecode` package
 ```
 
-## Run by Node
+## Run with Node
 ```js
 node dist/launcher.js   				# Source in `dist` directory
 ```
 
-## Run by PM2
+## Run with PM2
 ```js
 pm2 start ecosystem.config.js --env=production`
 ```
 
-## Run on startup
-Reference file `script\task-scheduler-window10.md`
+## Run on Startup
+Refer to the file `script\task-scheduler-window10.md`
 
 
-## Log in Pm2
+## PM2 Logging
 `../.pm2/logs/[app-name]-out-[pm2-index].log`<br/>
 `../.pm2/logs/[app-name]-error-[pm2-index].log`
 
-## Monitor
-Go to `https://app.pm2.io`
+## Monitoring
+Visit `https://app.pm2.io`
+
+# Use Docker
+`Docker` can be used to build and run instead of using `PM2`.
+
+## Build and Run
+```bash
+# Before building, change some environment variables in the `docker-compose.yml` file
+docker compose build
+
+# Run
+docker compose up
+
+# Stop and remove
+docker compose down
+```
+
+## Monitoring
+```bash
+# Access MongoDB
+docker ps         									# Find the container ID
+docker exec -it <container_id_or_name> mongo		# Access the MongoDB shell
+show databases
+
+# Network
+docker network ls
+docker network inspect <network_id>
+```
