@@ -8,14 +8,14 @@ services:
     environment:
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo:27017/
-      - MONGO_DB=local
-      - TELEGRAM_TOKEN=
-      - TELEGRAM_CHAT_ID=
+      - MONGO_DB=google-trends
+      - TELEGRAM_TOKEN=xxx:yyyyy
+      - TELEGRAM_CHAT_ID=123
     depends_on:
       - mongo
 
   mongo:
-    image: mongo
+    image: mongo:7
     environment:
       - TZ=Asia/Ho_Chi_Minh
     ports:
