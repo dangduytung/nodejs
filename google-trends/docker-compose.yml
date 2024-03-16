@@ -3,6 +3,7 @@ version: '3.8'
 services:
   app:
     build: .
+    image: google-trends:${VERSION:-latest}
     ports:
       - "3000:3000"
     environment:
@@ -10,8 +11,8 @@ services:
       - TZ=Asia/Ho_Chi_Minh
       - MONGO_URL=mongodb://mongo:27017/
       - MONGO_DB=google-trends
-      - TELEGRAM_TOKEN=xxx:yyyyy
-      - TELEGRAM_CHAT_ID=123
+      - TELEGRAM_TOKEN=your_telegram_token
+      - TELEGRAM_CHAT_ID=your_telegram_chat_id
     volumes:
       - ./data/trends-daily:/app/data/trends-daily
     depends_on:
